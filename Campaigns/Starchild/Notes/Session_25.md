@@ -40,4 +40,5 @@ SORT file.name
 - older gentleman, thick white moustache [[Elliott Mihaita]]
 	- they report to "[[Dragutin Rut]]" (works for [[ARGUS military force]])
 - actual response force shows up (handled by [[8-Bit]])
+- called in [[BinaryBard]] as a favour, wants the [[The Amulet of the Undead]] in exchange.
 # Summary

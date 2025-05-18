@@ -591,7 +591,7 @@
             }
           },
           {
-            "id": "a94384c85a8d8433",
+            "id": "eb964b66a25b8f8b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -605,12 +605,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "file": "Characters/Recurring/Netrunner/BinaryBard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session_24"
+              "title": "BinaryBard"
             }
           }
         ]
@@ -894,7 +894,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -916,20 +916,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea86374a763ed4a",
+  "active": "ed536ea5d669409c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Campaigns/Starchild/Notes/Session_24.md",
+    "Characters/Recurring/Netrunner/BinaryBard.md",
+    "Campaigns/Starchild/Notes/Session_25.md",
     "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/CEMK Rule Book.pdf",
-    "Campaigns/Starchild/Notes/Session_25.md",
-    "Campaigns/Starchild/Notes/Session_24.md",
     "Characters/Minor/Stephen.md",
     "Cyberpunk/Bestiary/Novice.md",
     "Stubs/Gunnot.md",
-    "Campaigns/Starchild/Starchild-outline.canvas",
     "Encyclopedia/Species/Arzen.md",
     "Atlas/Olympus/Madia.md",
     "Encyclopedia/Datashards/Excerpts/The mind freed from passion_Breeze.md",
@@ -949,7 +950,6 @@
     "Atlas/Olympus/Madia/ARGUS.md",
     "Encyclopedia/Concepts/Woven Relic.md",
     "Campaigns/Starchild/Notes/Session_23.md",
-    "Characters/Minor/Brother Cassian Vale.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",
