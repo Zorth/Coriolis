@@ -399,7 +399,8 @@
 		{"id":"5c4c67e95bcdfbd6","type":"text","text":"4. Block 2\n\nMaking their way through the living quarters they must stave off Zombies, this will have a HUM toll on them and they must prevent themselves from being infected.\n\nThey must reroute the power from the mainshaft elevator to the secondary elevator in order to proceed. From 2 to 3\n\n> [!recite] Block 2\n> As you make your way through the cold and earie second block you approach the elevator up to third block.\n> Above its entrance stand flashing in bold red unicode font `Incorrect power configuration, reset required`.\n> Luckily you spot the maintenance area next to it.\n> </br>\n> Inside you find a breaker box with 4 circuits, each has a power dial from low, through medium, high, and max and a direction for the circuit to be flipped in.\n> They are ordered from 1 through 4, With a large switch at the end labeled `ACTIVATE`.\n> (With a high enough check) You feel pulling this lever with the circuits in the wrong configuration might bring damage to you, or the system. \n","x":2183,"y":26620,"width":428,"height":720,"color":"4"},
 		{"id":"7a8f847a75edce42","type":"file","file":"Images/Maps/H07_Block3_30x19.png","x":2955,"y":27941,"width":682,"height":439,"color":"4"},
 		{"id":"7e6b15e71c8985ce","type":"text","text":"[[Jimmy Skyword]]","x":12,"y":22625,"width":248,"height":60},
-		{"id":"ba132f32f9d476df","x":1330,"y":27040,"width":400,"height":99,"type":"file","file":"Images/Automated Turret Snippet.png"}
+		{"id":"ba132f32f9d476df","type":"file","file":"Images/Automated Turret Snippet.png","x":1330,"y":27040,"width":400,"height":99},
+		{"id":"f36f3faf3651f6b0","x":1255,"y":27320,"width":400,"height":68,"type":"file","file":"Images/Spider Walking Drone.png"}
 	],
 	"edges":[
 		{"id":"a47f8b4d554b16a3","fromNode":"8a3383abcb53ebca","fromSide":"bottom","toNode":"998e648fd767ab69","toSide":"top"},

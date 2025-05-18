@@ -573,21 +573,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Starchild-outline",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild-outline.canvas\",\"viewState\":{\"x\":1113.3189954211323,\"y\":27120.086843031193,\"zoom\":-1.0081917149077035}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Starchild-outline\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Campaigns/Starchild/Starchild-outline.canvas",
-                "viewState": {
-                  "x": 1159.5809293043253,
-                  "y": 26484.488099244714,
-                  "zoom": -1.0081917149077035
-                }
+                "file": "Images/Spider Walking Drone.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Starchild-outline"
+              "icon": "lucide-image",
+              "title": "Spider Walking Drone"
             }
           },
           {
@@ -635,7 +636,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -942,20 +943,21 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Images/Automated Turret Snippet.png",
+    "Images/Spider Walking Drone.png",
     "Campaigns/Starchild/Starchild-outline.canvas",
+    "Characters/Recurring/Netrunner/BinaryBard.md",
     "Cyberpunk/Cyberpunk Red.pdf",
+    "Cyberpunk/CEMK Rule Book.pdf",
+    "Images/Automated Turret Snippet.png",
     "Cyberpunk/Skills/Skills.md",
     "Campaigns/Starchild/Notes/Session_25.md",
     "Stubs/The Cloak of the Forgotten.md",
     "Stubs/The Hat of the Sunlit Dawn.md",
     "Stubs/The Dagger of the Wandering.md",
-    "Characters/Recurring/Netrunner/BinaryBard.md",
     "Stubs/Cybermatrix Gang Jazzler.md",
     "Images/CybermatrixGangJazzler.png",
     "Images/Pasted image 20250223162011.png",
     "Campaigns/Starchild/Notes/Session_24.md",
-    "Cyberpunk/CEMK Rule Book.pdf",
     "Characters/Minor/Stephen.md",
     "Cyberpunk/Bestiary/Novice.md",
     "Stubs/Gunnot.md",
@@ -988,7 +990,6 @@
     "Images/Spells/1x",
     "Images/Spells/A9R1ve1nfb_1rac9ee_1fb0.tmp",
     "Images/Spells/~ai-f087cfd8-736d-452a-80a3-17c465fe8152_.tmp",
-    "Images/Characters/Hoavam von Reiktem.webp",
     "Campaigns/Starchild/Starchild-outline_ot.canvas",
     "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Atlas/Olympus/Madia/ARGUS/Fjord/Clip Security Point.canvas",
