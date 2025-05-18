@@ -1,0 +1,293 @@
+{
+  "monsters": [],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "0a58d8280a7b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "48db7bfb6809",
+              "properties": [
+                "Token"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "0afa382998d8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "0a982a598818",
+              "properties": [
+                "name"
+              ],
+              "size": 1,
+              "fallback": "-"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "f90aa85918d9",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "3b6828280a8a",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "baf918a838c9",
+                  "properties": [
+                    "INT"
+                  ],
+                  "fallback": "-",
+                  "display": "INT"
+                },
+                {
+                  "type": "property",
+                  "id": "49dbab989a38",
+                  "properties": [
+                    "REF"
+                  ],
+                  "fallback": "-",
+                  "display": "REF"
+                },
+                {
+                  "type": "property",
+                  "id": "6a7bf8bb3a5a",
+                  "properties": [
+                    "DEX"
+                  ],
+                  "fallback": "-",
+                  "display": "DEX"
+                },
+                {
+                  "type": "property",
+                  "id": "7a4a784a2bba",
+                  "properties": [
+                    "TECH"
+                  ],
+                  "fallback": "-",
+                  "display": "TECH"
+                },
+                {
+                  "type": "property",
+                  "id": "bb39d8085938",
+                  "properties": [
+                    "COOL"
+                  ],
+                  "fallback": "-",
+                  "display": "COOL"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "1b8958dafaea",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "d8981aa8d9b8",
+                  "properties": [
+                    "WILL"
+                  ],
+                  "fallback": "-",
+                  "display": "WILL"
+                },
+                {
+                  "type": "property",
+                  "id": "a87bfb5aa9bb",
+                  "properties": [
+                    "LUCK"
+                  ],
+                  "fallback": "-",
+                  "display": "LUCK"
+                },
+                {
+                  "type": "property",
+                  "id": "0ad8eb5948bb",
+                  "properties": [
+                    "MOVE"
+                  ],
+                  "fallback": "-",
+                  "display": "MOVE"
+                },
+                {
+                  "type": "property",
+                  "id": "69db2aaa38bb",
+                  "properties": [
+                    "BODY"
+                  ],
+                  "fallback": "-",
+                  "display": "BODY"
+                },
+                {
+                  "type": "property",
+                  "id": "a93979a91b69",
+                  "properties": [
+                    "EMP"
+                  ],
+                  "fallback": "-",
+                  "display": "EMP"
+                }
+              ]
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "inline",
+          "id": "cada4b28180b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "880a3a48e8b8",
+              "properties": [
+                "HP"
+              ],
+              "fallback": "-",
+              "display": "Hit Points",
+              "callback": "return String(10 + 5*Math.ceil((monster.BODY + monster.WILL)/2));",
+              "diceCallback": ""
+            },
+            {
+              "type": "property",
+              "id": "d9fa8b785b9a",
+              "properties": [
+                "WOUND"
+              ],
+              "fallback": "-",
+              "display": "Seriously Wounded",
+              "callback": "return String(Math.ceil((10 + 5*Math.ceil((monster.BODY + monster.WILL)/2))/2));"
+            },
+            {
+              "type": "property",
+              "id": "2b881b8bc85b",
+              "properties": [
+                "DEATH"
+              ],
+              "fallback": "-",
+              "display": "Death Saves",
+              "callback": "return monster.BODY;"
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "887a4b9a0b4a",
+          "properties": [
+            "Weapons"
+          ],
+          "fallback": "-",
+          "dice": true,
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "1a1999a82889",
+          "properties": [
+            "COMBAT"
+          ],
+          "fallback": "-",
+          "display": "Combat Number",
+          "conditioned": true,
+          "dice": false
+        },
+        {
+          "type": "group",
+          "id": "68f84a29ebea",
+          "properties": [],
+          "nested": [
+            {
+              "type": "subheading",
+              "id": "493b88ab79e8",
+              "properties": [],
+              "fallback": "Armor"
+            },
+            {
+              "type": "property",
+              "id": "e9989aca0a58",
+              "properties": [
+                "HeadArmor"
+              ],
+              "fallback": "-",
+              "display": "Head"
+            },
+            {
+              "type": "property",
+              "id": "5bc8ba092b7a",
+              "properties": [
+                "BodyArmor"
+              ],
+              "fallback": "-",
+              "display": "Body"
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "4aab8a88d87a",
+          "properties": [
+            "SKILL"
+          ],
+          "fallback": "-",
+          "heading": "Skill Bases",
+          "dice": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "c81a29284b78",
+          "properties": [
+            "Equipment"
+          ],
+          "fallback": "-",
+          "heading": "Cyberwear & Equipment",
+          "conditioned": true
+        }
+      ],
+      "name": "Red Grunt",
+      "id": "5bab3a2aca4b"
+    }
+  ],
+  "default": "5bab3a2aca4b",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "Cyberpunk/Bestiary",
+    "Pathfinder"
+  ],
+  "autoParse": true,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": true
+}

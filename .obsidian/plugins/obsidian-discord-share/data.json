@@ -1,0 +1,27 @@
+{
+  "discordWebhookURL": [
+    {
+      "description": "data",
+      "url": "https://discord.com/api/webhooks/1243658768777216030/I5rYUb4RzLKQZTF_t5P4RUenNYYDT1l5a2mHJT7ApZOm73MD-O4cvqYGQKLFRGSMS8t6"
+    },
+    {
+      "description": "gm test",
+      "url": "https://discord.com/api/webhooks/1246654180110762078/76Cq1rkMUUW6tasznIFPQACZaTgQouDWuDtqfmEavh_wvm6DScZw_-L-WZH4bYqTWGfy"
+    }
+  ],
+  "attachmentsFolder": "",
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "Obsidian",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": true,
+  "embedTitle": "",
+  "embedColor": "",
+  "embedURL": "",
+  "embedAuthor": "",
+  "embedDescription": "",
+  "embedThumbnail": "image",
+  "embedFields": "",
+  "embedImage": "image",
+  "embedFooter": ""
+}

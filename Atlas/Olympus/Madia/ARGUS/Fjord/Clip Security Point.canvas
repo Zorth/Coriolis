@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"1f904ce9a3123fd3","type":"group","x":560,"y":-461,"width":1800,"height":941,"label":"3"},
+		{"id":"7bdecce10e8e241e","type":"group","x":80,"y":760,"width":1280,"height":680,"label":"4"},
+		{"id":"5568455e31bca322","type":"group","x":1560,"y":760,"width":1240,"height":680,"label":"4"},
+		{"id":"1958ede8c5b587f1","type":"group","x":80,"y":1520,"width":1280,"height":560,"label":"5"},
+		{"id":"a04b408fe3d033eb","type":"group","x":80,"y":2160,"width":1280,"height":480,"label":"6"},
+		{"id":"d68149fc49d653da","type":"group","x":80,"y":2740,"width":1280,"height":480,"label":"7"},
+		{"id":"7dd2ccb957400edf","type":"group","x":1560,"y":1680,"width":1240,"height":480,"label":"5"},
+		{"id":"d8ec5df5f9eefef1","type":"group","x":1097,"y":-1581,"width":800,"height":480,"label":"1"},
+		{"id":"76f430d1067835da","type":"group","x":1097,"y":-1021,"width":800,"height":480,"label":"2"},
+		{"id":"7402f199be3134ac","type":"text","text":"<h1><center>FILE</center></h1>\nDV 6\n\n500 §","x":1120,"y":-1560,"width":250,"height":160,"color":"4"},
+		{"id":"617d94f6abfcaa27","type":"text","text":"<h1><center>Hellhound</center></h1>\n20\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 6 | 6 | 6 | 2 | 20 |\n\nDoes 2d6 damage direct to the Netrunner's brain. Unless insulated, their Cyberdeck catches fire along with their clothing. Until they spend a Meat Action to put themselves out, they take 2 damage to their HP whenever they end their Turn. Multiple instances of this effect cannot stack.\n500 §","x":1120,"y":-440,"width":310,"height":486,"color":"1"},
+		{"id":"1d62316c58035ee5","type":"text","text":"<h1><center>Sabertooth</center></h1>\n25\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 8 | 6 | 6 | 2 | 25 |\n\nDeals 6d6 damage to a Program. If this damage would be enough to Derezz the Program, it is instead Destroyed\n1,000 §","x":1480,"y":-440,"width":310,"height":335,"color":"1"},
+		{"id":"16053478d5d54beb","type":"text","text":"<h1><center>Hellhound</center></h1>\n20\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 6 | 6 | 6 | 2 | 20 |\n\nDoes 2d6 damage direct to the Netrunner's brain. Unless insulated, their Cyberdeck catches fire along with their clothing. Until they spend a Meat Action to put themselves out, they take 2 damage to their HP whenever they end their Turn. Multiple instances of this effect cannot stack.\n500 §","x":1480,"y":-60,"width":310,"height":486,"color":"1"},
+		{"id":"2434a0ae6c878d38","type":"text","text":"<h1><center>Sabertooth</center></h1>\n25\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 8 | 6 | 6 | 2 | 25 |\n\nDeals 6d6 damage to a Program. If this damage would be enough to Derezz the Program, it is instead Destroyed\n1,000 §","x":1120,"y":91,"width":310,"height":335,"color":"1"},
+		{"id":"54afdf6f1e31768f","type":"text","text":"<h1><center>Killer</center></h1>\n20\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 4 | 8 | 6 | 2 | 20 |\n\nDeals 4d6 damage to a Program. If this damage would be enough to Derezz the Program, it is instead Destroyed\n500 §","x":1600,"y":880,"width":310,"height":350,"color":"1"},
+		{"id":"9be1e55693407c70","type":"text","text":"<h1><center>PWD</center></h1>\nDV 12\n\n10,000 §","x":600,"y":680,"width":250,"height":160,"color":"3"},
+		{"id":"e466778c480cde46","type":"text","text":"<h1><center>NODE</center></h1>\nDV 6    -    500 §\n<h1><center>Observation Cameras</center></h1>\nThese cameras can see in Low Light, Infrared, and UV, and report images for a Demon or security personnel to act on. DV9 Electronics/Security Tech, 1 min to counter.\n\n5HP Perception DV17 to spot Can see one entire room or corridor","x":120,"y":790,"width":360,"height":440,"color":"2"},
+		{"id":"a2327330ca1f91b3","type":"text","text":"<h1><center>Hellhound</center></h1>\n20\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 6 | 6 | 6 | 2 | 20 |\n\nDoes 2d6 damage direct to the Netrunner's brain. Unless insulated, their Cyberdeck catches fire along with their clothing. Until they spend a Meat Action to put themselves out, they take 2 damage to their HP whenever they end their Turn. Multiple instances of this effect cannot stack.\n500 §","x":145,"y":1557,"width":310,"height":486,"color":"1"},
+		{"id":"5cdbb25de020863c","type":"text","text":"<h1><center>NODE</center></h1>\nDV 13   -    1,000 §\n<h1><center>Automated Turret</center></h1>\nVery Heavy Pistol with 8 Armor Piercing Bullets\nDV17 Electronics/Security Tech, 5 min to counter\n\nCombat Number 14 25HP Perimeter of Defended Area","x":120,"y":2200,"width":360,"height":400,"color":"2"},
+		{"id":"dcba3d81f09fde45","type":"text","text":"<h1><center>Giant</center></h1>\n25\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 2 | 2 | 8 | 4 | 25 |\n\nDoes 3d6 damage direct to an enemy Netrunner's brain. The Netrunner is forcibly and unsafely Jacked Out of their current Netrun. They suffer the effect of all Rezzed enemy Black ICE they've encountered in the Architecture as they leave, not including the Giant\n1,000 §","x":2000,"y":880,"width":310,"height":487,"color":"1"},
+		{"id":"fb98cf505beddeb6","type":"text","text":"<h1><center>FILE</center></h1>\nDV 12\n\n10,000 §","x":1600,"y":1720,"width":250,"height":160,"color":"4"},
+		{"id":"18adbfdec162bd7c","type":"text","text":"<h1><center>PWD</center></h1>\nDV 12\n\n10,000 §","x":2030,"y":680,"width":250,"height":160,"color":"3"},
+		{"id":"d8e60f225ba2f70f","type":"text","text":"<h1><center>Imp</center></h1>\n15\n\n| Rez | Interface | Net Actions | Combat |\n| -- | --| -- | -- |\n| 15 | 3 | 2 | 14 |\n\n1,000 §","x":930,"y":2270,"width":380,"height":260,"color":"6"},
+		{"id":"c92962c2900b1369","type":"text","text":"<h1><center>NODE</center></h1>\nDV 13   -    1,000 §\n<h1><center>Automated Turret</center></h1>\nVery Heavy Pistol with 8 Armor Piercing Bullets\nDV17 Electronics/Security Tech, 5 min to counter\n\nCombat Number 14 25HP Perimeter of Defended Area","x":120,"y":2760,"width":360,"height":400,"color":"2"},
+		{"id":"ebaf100b31baf61a","type":"text","text":"<h1><center>NODE</center></h1>\nDV 10\n\n5,000 §","x":1120,"y":-1000,"width":250,"height":160,"color":"2"}
+	],
+	"edges":[
+		{"id":"51b381a19d7110f1","fromNode":"d8ec5df5f9eefef1","fromSide":"bottom","toNode":"76f430d1067835da","toSide":"top"},
+		{"id":"f11469bf771291aa","fromNode":"76f430d1067835da","fromSide":"bottom","toNode":"1f904ce9a3123fd3","toSide":"top"},
+		{"id":"fb8cd454266035ae","fromNode":"1f904ce9a3123fd3","fromSide":"bottom","toNode":"7bdecce10e8e241e","toSide":"top"},
+		{"id":"cf8d030c7213a6ee","fromNode":"7bdecce10e8e241e","fromSide":"bottom","toNode":"1958ede8c5b587f1","toSide":"top"},
+		{"id":"3c06a86243c233cf","fromNode":"1958ede8c5b587f1","fromSide":"bottom","toNode":"a04b408fe3d033eb","toSide":"top"},
+		{"id":"95efae3414861315","fromNode":"5568455e31bca322","fromSide":"bottom","toNode":"7dd2ccb957400edf","toSide":"top"},
+		{"id":"4bd46800d72800c4","fromNode":"1f904ce9a3123fd3","fromSide":"bottom","toNode":"5568455e31bca322","toSide":"top"},
+		{"id":"64ae40a321509042","fromNode":"a04b408fe3d033eb","fromSide":"bottom","toNode":"d68149fc49d653da","toSide":"top"}
+	]
+}

@@ -1,0 +1,95 @@
+---
+tags:
+  - Rules
+---
+- Awareness
+	- [[Concentration]]
+	- [[Conceal/Reveal Object]]
+	- [[Lip Reading]]
+	- [[Perception]]
+	- [[Tracking]]
+- Body
+	- [[Athletics]]
+	- [[Contortionist]]
+	- [[Dance]]
+	- [[Endurance]]
+	- [[Resist Torture/Drugs]]
+	- [[Stealth]]
+	- [[Zero G]]
+- Control
+	- [[Drive Land Vehicle]]
+	- [[Pilot Air Vehicle]] x2
+	- [[Pilot Sea Vehicle]]
+	- [[Pilot Space Vehicle]] x2
+	- [[Riding]]
+- Education
+	- [[Accounting]]
+	- [[Animal Handling]]
+	- [[Arcana]]
+	- [[Bureaucracy]]
+	- [[Business]]
+	- [[Composition]]
+	- [[Criminology]]
+	- [[Cryptography]]
+	- [[Deduction]]
+	- [[Education]]
+	- [[Gamble]]
+	- [[Language]]
+	- [[Library Search]]
+	- [[Local Expert]]
+	- [[Science]]
+	- [[Space Tech]]
+	- [[Tactics]]
+	- [[Wilderness Survival]]
+- Fighting
+	- [[Brawling]]
+	- [[Evasion]]
+	- [[Martial Arts]] x2
+	- [[Melee Weapon]]
+- Performance
+	- [[Acting]]
+	- [[Play Instrument]]
+- Ranged Weapon
+	- [[Archery]]
+	- [[Autofire]] x2
+	- [[Handgun]]
+	- [[Heavy Weapons]] x2
+	- [[Shoulder Arms]]
+- Social
+	- [[Bribery]]
+	- [[Conversation]]
+	- [[Human Perception]]
+	- [[Interrogation]]
+	- [[Persuasion]]
+	- [[Personal Grooming]]
+	- [[Streetwise]]
+	- [[Trading]]
+	- [[Wardrobe & Style]]
+- Technique
+	- [[Air Vehicle Tech]]
+	- [[Basic Tech]]
+	- [[Cybertech]]
+	- [[Demolitions]] x2
+	- [[Electronics/Security Tech]] x2
+	- [[First Aid]]
+	- [[Forgery]]
+	- [[Land Vehicle Tech]]
+	- [[Medical Tech]]
+	- [[Paint/Draw/Sculpt]]
+	- [[Paramedic]] x2
+	- [[Photography/Film]]
+	- [[Pick Lock]]
+	- [[Pick Pocket]]
+	- [[Sea Vehicle Tech]]
+	- [[Weaponstech]]
+- Role
+	- [[Charismatic Impact]]
+	- [[Combat Awareness]]
+	- [[Interface]]
+	- [[Maker]]
+	- [[Medicine]]
+	- [[Credibility]]
+	- [[Teamwork]]
+	- [[Backup]]
+	- [[Operator]]
+	- [[Moto]]

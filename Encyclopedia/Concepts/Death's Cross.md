@@ -1,0 +1,1 @@
+A popular myth in communities derives from [[Lost Syndicate|The Lost]]. A symbol of a circle with cross through it.

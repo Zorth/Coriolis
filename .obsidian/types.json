@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "parent": "multitext",
+    "fc-date": "text",
+    "fc-category": "text",
+    "species": "multitext",
+    "HP": "number",
+    "number": "number",
+    "PER": "number",
+    "Cost": "number",
+    "sessions": "multitext",
+    "power": "number",
+    "parties": "multitext",
+    "modifiers": "multitext"
+  }
+}

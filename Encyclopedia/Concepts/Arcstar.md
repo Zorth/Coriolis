@@ -1,0 +1,1 @@
+Arcstars are artificial stars created by [[Sylvaray]] through the use of contained [[Arcan]] fusion.

@@ -1,0 +1,1 @@
+Originates from "just" or "righteous".

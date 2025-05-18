@@ -1,0 +1,1 @@
+The Dutsh family is a corporate manager family in charge of bringing life back to [[Kreturu]]. But they got targeted a bit by [[ARGUS]] for involvement with the [[Vultures]] gang.

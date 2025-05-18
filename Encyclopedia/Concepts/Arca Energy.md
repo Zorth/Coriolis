@@ -1,0 +1,1 @@
+Arca energy is the potential energy for [[Arcane]] transformation. This means it can be used in [[Incantation]] or stored in items to have permanent [[Spell]]s, these items are called [[Woven Relic]]s.

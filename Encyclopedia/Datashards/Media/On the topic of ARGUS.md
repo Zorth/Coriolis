@@ -1,0 +1,3 @@
+> [!Quote] [[Floria Bankton]]
+> The Augmented Residence Gear and Universal Systems, or [[ARGUS]]. Holds the most seats in the [[Madian Parliament|MP]] together with [[Sylvaray]]. Produces home appliances and general purpose technologies.
+> [[ARGUS]]' household name has been around for a long time, with their forward marketing and striking colors, everybody has heard of [[ARGUS]]. With good diplomatic relations and reliable software, it often carries a positive opinion within the general public. However, there have been no "Ex-Employees" that have public records.

@@ -1,0 +1,11 @@
+:root
+{
+	--statblock-primary-color: #F1E6E0;
+    --statblock-rule-color: #FF0000;
+    --statblock-bar-color: #FF0000;
+    --statblock-background-color: #1E2124;
+	
+	--statblock-content-font: "lucida-console", sans-serif;
+	--statblock-heading-font: "lucida-console", sans-serif;
+
+}

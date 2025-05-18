@@ -1,0 +1,5 @@
+- [[The Architect]] (comm. [[The Architect|Anthony Scott]])
+- [[The Trickster]] (comm. [[The Trickster|Loki]])
+- [[The Manager]]
+- [[The Weaver]]
+- [[The Writer]] (comm. [[The Writer|Oliver]])

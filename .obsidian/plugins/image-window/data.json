@@ -1,0 +1,37 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "THOR": {
+          "x": 746,
+          "y": 154,
+          "width": 588,
+          "height": 783,
+          "fullscreen": false,
+          "maximized": false
+        },
+        "ODIN": {
+          "x": -8,
+          "y": -8,
+          "width": 1936,
+          "height": 1066,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
+    },
+    "image-preview": {
+      "hosts": {
+        "THOR": {
+          "x": 270,
+          "y": 105,
+          "width": 558,
+          "height": 691,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

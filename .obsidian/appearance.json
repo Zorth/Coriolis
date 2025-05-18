@@ -1,0 +1,21 @@
+{
+  "accentColor": "#e4216f",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "cards",
+    "red",
+    "Character",
+    "timeline-snippet",
+    "S - Images Adjustments",
+    "notion-cards",
+    "minimal-cards",
+    "its-frontmatter"
+  ],
+  "translucency": false,
+  "baseFontSize": 16,
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
+}

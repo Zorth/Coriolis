@@ -1,0 +1,1420 @@
+{
+  "workspaces": {
+    "Writing": {
+      "main": {
+        "id": "94f4dce845c60891",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba5980babc23ca17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b437799690042352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Difficulty Values",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Tables/Difficulty Values.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_8",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_8.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "946299920f968a2c",
+        "type": "split",
+        "children": [
+          {
+            "id": "53b7e31b4e9b8586",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ba4592309233e67",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8169b416c3777901",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3e649d9aecc17b49",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e00f24feb3785140",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.5
+      },
+      "right": {
+        "id": "6c153739c0a56285",
+        "type": "split",
+        "children": [
+          {
+            "id": "c46280ca677e1071",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3bd777b8666a6cde",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md"
+                  }
+                }
+              },
+              {
+                "id": "8b11848cbca4798a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#Player",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711791
+                          }
+                        },
+                        {
+                          "query": "tag:#Character",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14724178
+                          }
+                        },
+                        {
+                          "query": "tag:#Organization  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6021202
+                          }
+                        },
+                        {
+                          "query": "tag:#Location",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5984992
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224461,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 532.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "calendarium:Open Calendarium": false,
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "b437799690042352",
+      "mtime": "2024-05-31T22:01:15+02:00"
+    },
+    "Running": {
+      "main": {
+        "id": "94f4dce845c60891",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba5980babc23ca17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b437799690042352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Difficulty Values",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Tables/Difficulty Values.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_8",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_8.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "6a54330fff6c4b14",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild-outline.canvas",
+                    "viewState": {
+                      "x": -1550.4831285091122,
+                      "y": 10020.46101316647,
+                      "zoom": -0.8333333333333324
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "946299920f968a2c",
+        "type": "split",
+        "children": [
+          {
+            "id": "53b7e31b4e9b8586",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ba4592309233e67",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8169b416c3777901",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3e649d9aecc17b49",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e00f24feb3785140",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6c153739c0a56285",
+        "type": "split",
+        "children": [
+          {
+            "id": "c46280ca677e1071",
+            "type": "tabs",
+            "dimension": 40.38095238095238,
+            "children": [
+              {
+                "id": "76f016fafa1ed702",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ebc8206fa7d987c3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3a4d68464c072f06",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md"
+                  }
+                }
+              },
+              {
+                "id": "3bd777b8666a6cde",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md"
+                  }
+                }
+              },
+              {
+                "id": "846d6da3f39190a1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1434f0c3b05019d2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_396a79fb79fa",
+                    "ephemeral": {
+                      "viewing": {
+                        "day": 11,
+                        "month": 0,
+                        "year": 1519
+                      },
+                      "viewState": 1,
+                      "displaying": {
+                        "day": 11,
+                        "month": 0,
+                        "year": 1519
+                      },
+                      "displayDayNumber": true,
+                      "displayMoons": true,
+                      "displayWeeks": true
+                    },
+                    "id": "ID_c8da6a898948",
+                    "child": "ID_b918ba2a1999"
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "eaf73af8a97ac5c6",
+            "type": "tabs",
+            "dimension": 59.61904761904761,
+            "children": [
+              {
+                "id": "8b11848cbca4798a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#Player",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711791
+                          }
+                        },
+                        {
+                          "query": "tag:#Character",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14724178
+                          }
+                        },
+                        {
+                          "query": "tag:#Organization  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6021202
+                          }
+                        },
+                        {
+                          "query": "tag:#Location",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5984992
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224461,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "a901b8c7a674b75f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "CALENDARIUM_AGENDA",
+                  "state": {
+                    "calendar": "ID_396a79fb79fa",
+                    "id": "ID_b918ba2a1999",
+                    "parent": "ID_c8da6a898948"
+                  }
+                }
+              },
+              {
+                "id": "9f7e254c557b50c4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Cyberpunk/Cyberpunk Red.pdf"
+                  }
+                }
+              },
+              {
+                "id": "0c3c8b945ec11809",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cyberpunk/Tables/Difficulty Values.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 756.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "calendarium:Open Calendarium": false,
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "b437799690042352",
+      "mtime": "2024-05-31T21:52:05+02:00"
+    },
+    "Rules": {
+      "main": {
+        "id": "94f4dce845c60891",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba5980babc23ca17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ea86374a763ed4a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_17",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_17.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_17\"}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Starchild\"}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_16",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_16.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_16\"}",
+                      "eState": "{\"scroll\":22.262626262626263}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Sug4r",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/Sug4r.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":383},\"to\":{\"line\":29,\"ch\":383}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Session_16",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_16.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":23.076923076923077}"
+                    },
+                    {
+                      "title": "Dashboard",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Shove",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shove.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Fire Person",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Person.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Fire Point",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Point.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shove",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shove.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shove",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shove.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":13},\"to\":{\"line\":5,\"ch\":13}}}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Fire Point",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Point.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Shove",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shove.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Shout",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shout.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Shove",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Shove.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Fire Point",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Point.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Fire Person",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Person.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Fire Point",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Point.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Fire Person",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Fire Person.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0.7080851063829787}"
+                    },
+                    {
+                      "title": "Fire_Point_ref7_power1",
+                      "icon": "lucide-image",
+                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"Images/Spells/Fire_Point_ref7_power1.png\"}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Fire_Person_ref7_power2",
+                      "icon": "lucide-image",
+                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"Images/Spells/Fire_Person_ref7_power2.png\"}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Hold Object",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cyberpunk/Arcane/Spells/Hold Object.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Starchild-outline",
+                      "icon": "lucide-layout-dashboard",
+                      "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild-outline.canvas\",\"viewState\":{\"x\":2680,\"y\":11217.5,\"zoom\":-4}}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_15",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_15.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":60.30909090909091}"
+                    },
+                    {
+                      "title": "Arcstar",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Encyclopedia/Concepts/Arcstar.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "8-Bit",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/8-Bit.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":4.716494845360825}"
+                    },
+                    {
+                      "title": "Cayote",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/Cayote.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "N0rt0n",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/N0rt0n.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "M0NSIEUR",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/M0NSIEUR.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "N0rt0n",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/N0rt0n.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Cayote",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/Cayote.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "M0NSIEUR",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/M0NSIEUR.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Cayote",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/Cayote.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":2.551546391752577}"
+                    },
+                    {
+                      "title": "8-Bit",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/8-Bit.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":4.52319587628866}"
+                    },
+                    {
+                      "title": "Session_15",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_15.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":12.91304347826087}"
+                    },
+                    {
+                      "title": "Session_14",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_14.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Session_15",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_15.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":33.34426229508197}"
+                    },
+                    {
+                      "title": "Monsters_Kay_Tee",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Encyclopedia/Datashards/Songs/Monsters_Kay_Tee.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":0}"
+                    },
+                    {
+                      "title": "Session_15",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_15.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":18},\"to\":{\"line\":34,\"ch\":18}},\"scroll\":19.168023686158403}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "002_Babel",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Images/Puzzles/002_Babel.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":521},\"to\":{\"line\":2,\"ch\":521}}}"
+                    },
+                    {
+                      "title": "Session_14",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_14.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":7.053941908713694}"
+                    },
+                    {
+                      "title": "Session_13",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_13.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":18.254545454545454}"
+                    },
+                    {
+                      "title": "Session_14",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_14.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":27.595637583892618}"
+                    },
+                    {
+                      "title": "Starchild",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "N0rt0n",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/N0rt0n.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "8-Bit",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Characters/8-Bit.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":10.144927536231883}"
+                    },
+                    {
+                      "title": "Graph view",
+                      "icon": "lucide-git-fork",
+                      "state": "{\"type\":\"graph\",\"state\":{}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session_13",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_13.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Starchild"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "946299920f968a2c",
+        "type": "split",
+        "children": [
+          {
+            "id": "53b7e31b4e9b8586",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ba4592309233e67",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "8169b416c3777901",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "3e649d9aecc17b49",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "e00f24feb3785140",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 225.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6c153739c0a56285",
+        "type": "split",
+        "children": [
+          {
+            "id": "c46280ca677e1071",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "46a8f9baa29ad6e9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "tag:#Character  ",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.713275462622443,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Starchild"
+                }
+              },
+              {
+                "id": "76f016fafa1ed702",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Starchild"
+                }
+              },
+              {
+                "id": "ebc8206fa7d987c3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Campaigns/Starchild/Starchild.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Starchild"
+                }
+              },
+              {
+                "id": "1434f0c3b05019d2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_396a79fb79fa",
+                    "ephemeral": {
+                      "viewing": {
+                        "day": 20,
+                        "month": 0,
+                        "year": 1519
+                      },
+                      "viewState": 1,
+                      "displaying": {
+                        "day": 1,
+                        "month": 2,
+                        "year": 1519
+                      },
+                      "displayDayNumber": true,
+                      "displayMoons": true,
+                      "displayWeeks": true
+                    },
+                    "id": "ID_c8da6a898948",
+                    "child": "ID_b918ba2a1999"
+                  },
+                  "icon": "CALENDARIUM",
+                  "title": "Calendarium"
+                }
+              },
+              {
+                "id": "b7da2173fafaedab",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "copilot-chat-view",
+                  "state": {},
+                  "icon": "message-square",
+                  "title": "Copilot"
+                }
+              },
+              {
+                "id": "9f7e254c557b50c4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Cyberpunk/Cyberpunk Red.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Cyberpunk Red"
+                }
+              },
+              {
+                "id": "ad509de8e8fd03d2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Cyberpunk/CEMK Rule Book.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "CEMK Rule Book"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 752.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-shellcommands:Shell commands: Custom variables": false,
+          "3d-graph-new:Global 3D Graph": false,
+          "copilot:Copilot Chat": false,
+          "calendarium:Open Calendarium": false
+        }
+      },
+      "active": "4ea86374a763ed4a",
+      "ophidian:layout-settings": {
+        "pane-relief:focus-lock": false
+      },
+      "mtime": "2024-10-20T12:15:15+02:00"
+    }
+  },
+  "active": "Rules"
+}

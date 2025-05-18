@@ -1,0 +1,1 @@
+[[Netcafe]] is a collaboration between [[BIINJOOS]] and [[Demetor]] to create calm environments with public access to the local nets.

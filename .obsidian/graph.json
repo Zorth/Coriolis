@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Player",
+      "color": {
+        "a": 1,
+        "rgb": 15413095
+      }
+    },
+    {
+      "query": "tag:#Organization  ",
+      "color": {
+        "a": 1,
+        "rgb": 3403858
+      }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 5462254
+      }
+    },
+    {
+      "query": "tag:#Event  ",
+      "color": {
+        "a": 1,
+        "rgb": 6546395
+      }
+    },
+    {
+      "query": "tag:#Campaign  ",
+      "color": {
+        "a": 1,
+        "rgb": 15475234
+      }
+    },
+    {
+      "query": "tag:#Character  ",
+      "color": {
+        "a": 1,
+        "rgb": 16414976
+      }
+    },
+    {
+      "query": "tag:#Rules",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Spell",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Session  ",
+      "color": {
+        "a": 1,
+        "rgb": 6163725
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.89202711426727,
+  "lineSizeMultiplier": 1.171875,
+  "collapse-forces": false,
+  "centerStrength": 0.288250484183344,
+  "repelStrength": 12.7888960619755,
+  "linkStrength": 0.634280180761782,
+  "linkDistance": 88,
+  "scale": 0.0686849635849345,
+  "close": true
+}

@@ -1,0 +1,1 @@
+Blue wolf was a rival band to [[Red Vix]] when it started, even stealing concerts when possible. However due to their inability to create original music the band failed and split not long after creation.

@@ -1,0 +1,1 @@
+A [[Spellbook]] can hold scribed [[Spell]]s without disappearing when they are viewed. Allowing for easy transfer and re-[[Incantation|Cant]]ing of a spell once it's lost.

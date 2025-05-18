@@ -1,0 +1,1 @@
+The Based Radiocommunication Integrated Arcan Network, B.R.I.A.N. or BR for short. Is an integrated network system that controls used as a hub for many stations and ships.

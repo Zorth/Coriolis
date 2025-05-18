@@ -1,0 +1,375 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Coriolis",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Saloct",
+            "id": "ID_7a5b98cafb79"
+          },
+          {
+            "type": "day",
+            "name": "Nartu",
+            "id": "ID_a839ba6ada18"
+          },
+          {
+            "type": "day",
+            "name": "Infago",
+            "id": "ID_3b9878a94968"
+          },
+          {
+            "type": "day",
+            "name": "Welruk",
+            "id": "ID_2a18fa4b79f8"
+          },
+          {
+            "type": "day",
+            "name": "Oldhim",
+            "id": "ID_3b29cbda6868"
+          },
+          {
+            "type": "day",
+            "name": "Primt",
+            "id": "ID_897ada59e9f8"
+          },
+          {
+            "type": "day",
+            "name": "Sanct",
+            "id": "ID_5999f9088bfb"
+          }
+        ],
+        "months": [
+          {
+            "name": "Skar",
+            "type": "month",
+            "length": 30,
+            "id": "ID_08e84a2b6a78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ghull",
+            "type": "month",
+            "length": 24,
+            "id": "ID_b898aa8bdb3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Maira",
+            "type": "month",
+            "length": 27,
+            "id": "ID_2b3b0b789b48",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Kata",
+            "type": "month",
+            "length": 24,
+            "id": "ID_aa5a9a68aa18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Bon",
+            "type": "month",
+            "length": 33,
+            "id": "ID_bbc97aa80898",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Nys",
+            "type": "month",
+            "length": 27,
+            "id": "ID_7a09f87a5a68",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Boubinia",
+            "cycle": 365,
+            "offset": null,
+            "faceColor": "#15a6e5",
+            "shadowColor": "#482465",
+            "id": "ID_7a69583aea09"
+          },
+          {
+            "name": "Madia",
+            "cycle": 687,
+            "offset": null,
+            "faceColor": "#e48921",
+            "shadowColor": "#6a254d",
+            "id": "ID_e899fad9bb3a"
+          },
+          {
+            "name": "Saet",
+            "cycle": 10756,
+            "offset": null,
+            "faceColor": "#58ec22",
+            "shadowColor": "#100f48",
+            "id": "ID_c9e8c99a5aaa"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leaps",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              }
+            ],
+            "timespan": 0,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_09eaabc8fb78"
+          },
+          {
+            "name": "Ratt",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              }
+            ],
+            "timespan": 3,
+            "intercalary": true,
+            "numbered": true,
+            "after": 24,
+            "offset": 0,
+            "id": "ID_88d8d8d87b2a"
+          },
+          {
+            "name": "Ratt",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              }
+            ],
+            "timespan": 3,
+            "intercalary": true,
+            "numbered": true,
+            "after": 24,
+            "offset": 0,
+            "id": "ID_7b08a9b88919"
+          },
+          {
+            "name": "Ratt",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              }
+            ],
+            "timespan": 3,
+            "intercalary": true,
+            "numbered": true,
+            "after": 24,
+            "offset": 0,
+            "id": "ID_e8199abb5879"
+          }
+        ],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "day": 8,
+        "month": 3,
+        "year": 1519
+      },
+      "events": [
+        {
+          "name": "Cayote therapy",
+          "description": "normal therapy",
+          "date": {
+            "day": 12,
+            "month": 5,
+            "year": 1518
+          },
+          "id": "ID_69487b0b88e8",
+          "note": null,
+          "category": "ID_6979bb7a8b28",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Great Lora meeting",
+          "description": "deadline decrypted shard",
+          "date": {
+            "day": 13,
+            "month": 5,
+            "year": 1518
+          },
+          "id": "ID_58d9f93baa4a",
+          "note": null,
+          "category": "ID_6979bb7a8b28",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Death of J3N",
+          "description": "J3N is murdered by [[Stephen]]",
+          "date": {
+            "year": 1518,
+            "month": 5,
+            "day": 27,
+            "order": ""
+          },
+          "id": "ID_a93a38ead8e8",
+          "note": "Characters/Recurring/Fixer/J3N.md",
+          "category": "ID_6a1bcb6a1b98",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hubble Con",
+          "description": "",
+          "date": {
+            "year": [
+              1480,
+              1
+            ],
+            "month": 3,
+            "day": 14,
+            "order": ""
+          },
+          "id": "ID_0bbb1adb7aea",
+          "note": "Stubs/Hubble Con.md",
+          "category": "ID_784b9a49b85b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "id": "ID_396a79fb79fa",
+      "categories": [
+        {
+          "name": "Birthday",
+          "color": "#70eeff",
+          "id": "ID_d93a9b7a6899"
+        },
+        {
+          "id": "ID_6a1bcb6a1b98",
+          "color": "#da1010",
+          "name": "War"
+        },
+        {
+          "id": "ID_6979bb7a8b28",
+          "color": "#1fd1a1",
+          "name": "Session"
+        },
+        {
+          "id": "ID_f99ac93b294b",
+          "color": "#5d249e",
+          "name": "Nature"
+        },
+        {
+          "id": "ID_784b9a49b85b",
+          "color": "#eae31a",
+          "name": "Holiday"
+        },
+        {
+          "id": "ID_18ebba585b99",
+          "color": "#149e5d",
+          "name": "Geocorp"
+        },
+        {
+          "id": "ID_5ad92b78396b",
+          "color": "#f2b7ab",
+          "name": "Book"
+        },
+        {
+          "name": null,
+          "color": "#808080",
+          "id": "ID_3949fa59fa69"
+        }
+      ],
+      "timelineTag": "#timeline",
+      "displayWeeks": true,
+      "autoParse": true,
+      "path": [
+        "Events"
+      ],
+      "supportTimelines": true,
+      "syncTimelines": false,
+      "showIntercalarySeparately": false,
+      "inlineEventTag": null
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-M-D",
+  "defaultCalendar": "ID_396a79fb79fa",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": true,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": true,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ],
+    [
+      "Events",
+      "DEFAULT"
+    ]
+  ],
+  "currentCalendar": null,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "autoParse": true
+}

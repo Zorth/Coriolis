@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"6e8fffebf1ab02fe","type":"group","x":1140,"y":420,"width":1500,"height":740,"label":"4"},
+		{"id":"2988ac099c1eeae8","type":"group","x":2720,"y":420,"width":1500,"height":740,"label":"4"},
+		{"id":"b9011b6a56b72f00","type":"group","x":1140,"y":1280,"width":1500,"height":640,"label":"5"},
+		{"id":"410426fe32c09945","type":"group","x":1140,"y":2040,"width":1500,"height":600,"label":"6"},
+		{"id":"1df6819fd1fde0f8","type":"group","x":1890,"y":-1760,"width":1500,"height":480,"label":"1"},
+		{"id":"e6370e7fa4e75b20","type":"group","x":1890,"y":-1200,"width":1500,"height":480,"label":"2"},
+		{"id":"8d568557a75bc01d","type":"group","x":1140,"y":-140,"width":1500,"height":480,"label":"3"},
+		{"id":"4dd7e197b367baa8","type":"group","x":2720,"y":-140,"width":1500,"height":480,"label":"3"},
+		{"id":"b6a91b533f5cb2e9","type":"text","text":"<h1><center>Dragon</center></h1>\n30\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 6 | 4 | 6 | 6 | 30 |\n\nDeals 6d6 damage to a Program. If this damage would be enough to Derezz the Program, it is instead Destroyed\n1,000 §","x":1160,"y":-120,"width":310,"height":338,"color":"1"},
+		{"id":"1a079a7c63c2d443","type":"text","text":"<h1><center>Skunk</center></h1>\n10\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 2 | 4 | 4 | 2 | 10 |\n\nUntil this Program is Derezzed, an enemy Netrunner hit by this Effect makes all Slide Checks at a -2. Each Skunk Black ICE can only affect a single Netrunner at a time, but the effects of multiple Skunks can stack.\n500 §","x":1910,"y":-1170,"width":310,"height":420,"color":"1"},
+		{"id":"436c8eca028a562d","type":"text","text":"<h1><center>PWD</center></h1>\nDV 8\n\n1,000 §","x":2510,"y":-1400,"width":250,"height":160,"color":"3"},
+		{"id":"94fce27de48a2f5c","type":"text","text":"<h1><center>FILE</center></h1>\nDV 6\n\n500 §","x":2760,"y":-111,"width":250,"height":160,"color":"4"},
+		{"id":"fc18535598e755cb","type":"text","text":"<h1><center>PWD</center></h1>\nDV 12\n\n10,000 §","x":3320,"y":-271,"width":250,"height":160,"color":"3"},
+		{"id":"9dc49321ee7e47cc","type":"text","text":"<h1><center>Large Air Drone</center></h1>\n6 MOVE - 20 HP\n\n- Dartgun with 8 Poison Arrows\n- Very Heavy Pistol with 8 Armor Piercing Bullets\n \nDV21 Electronics/Security Tech, 5 mins to counter","x":1160,"y":1470,"width":360,"height":330,"color":"2"},
+		{"id":"858f693e869a2ecc","type":"text","text":"<h1><center>NODE</center></h1>\nDV 10\n\n5,000 §","x":1160,"y":1310,"width":360,"height":160,"color":"2"},
+		{"id":"b331be2ce0595869","type":"text","text":"<h1><center>Observation Cameras</center></h1>\nThese cameras can see in Low Light, Infrared, and UV, and report images for a Demon or security personnel to act on. DV9 Electronics/Security Tech, 1 min to counter.\n\n5HP Perception DV17 to spot Can see one entire room or corridor","x":1160,"y":2240,"width":360,"height":320,"color":"2"},
+		{"id":"27b4901e9b205dce","type":"text","text":"<h1><center>NODE</center></h1>\nDV 12\n\n10,000 §","x":1160,"y":2080,"width":360,"height":160,"color":"2"},
+		{"id":"029f2cafb79246f0","type":"text","text":"<h1><center>NODE</center></h1>\nDV 10\n\n5,000 §","x":1160,"y":460,"width":360,"height":160,"color":"2"},
+		{"id":"8176bd44ba529ea1","type":"text","text":"<h1><center>Large Air Drone</center></h1>\n6 MOVE - 20 HP\n\n- Dartgun with 8 Poison Arrows\n- Very Heavy Pistol with 8 Armor Piercing Bullets\n \nDV21 Electronics/Security Tech, 5 mins to counter","x":1160,"y":620,"width":360,"height":320,"color":"2"},
+		{"id":"cfbb2260fbcb35f3","type":"text","text":"<h1><center>Efreet</center></h1>\n25\n\n| Rez | Interface | Net Actions | Combat |\n| -- | --| -- | -- |\n| 25 | 4 | 3 | 14 |\n\n5,000 §","x":2200,"y":2110,"width":380,"height":260,"color":"6"},
+		{"id":"1f48edd49b1b1c6a","type":"text","text":"<h1><center>PWD</center></h1>\nDV 12\n\n10,000 §","x":1760,"y":380,"width":250,"height":160,"color":"3"},
+		{"id":"7b5e1af1eaf40243","type":"text","text":"<h1><center>PWD</center></h1>\nDV 12\n\n10,000 §","x":1760,"y":1950,"width":250,"height":160,"color":"3"},
+		{"id":"1fead7ca832dd9d5","type":"text","text":"<h1><center>Skunk</center></h1>\n10\n\n| PER | SPD | ATK | DEF | REZ |\n| --- | --- | --- | --- | --- |\n| 2 | 4 | 4 | 2 | 10 |\n\nUntil this Program is Derezzed, an enemy Netrunner hit by this Effect makes all Slide Checks at a -2. Each Skunk Black ICE can only affect a single Netrunner at a time, but the effects of multiple Skunks can stack.\n500 §","x":2240,"y":-1170,"width":310,"height":420,"color":"1"}
+	],
+	"edges":[
+		{"id":"ed52e65948c99ade","fromNode":"1df6819fd1fde0f8","fromSide":"bottom","toNode":"e6370e7fa4e75b20","toSide":"top"},
+		{"id":"8dbef8626d3b7085","fromNode":"e6370e7fa4e75b20","fromSide":"bottom","toNode":"8d568557a75bc01d","toSide":"top"},
+		{"id":"0f372aa2f8e33d79","fromNode":"8d568557a75bc01d","fromSide":"bottom","toNode":"6e8fffebf1ab02fe","toSide":"top"},
+		{"id":"9bd6c707e238ad59","fromNode":"6e8fffebf1ab02fe","fromSide":"bottom","toNode":"b9011b6a56b72f00","toSide":"top"},
+		{"id":"fb597fc93838600b","fromNode":"b9011b6a56b72f00","fromSide":"bottom","toNode":"410426fe32c09945","toSide":"top"},
+		{"id":"524b35ec22098b6d","fromNode":"e6370e7fa4e75b20","fromSide":"bottom","toNode":"4dd7e197b367baa8","toSide":"top"},
+		{"id":"44d5c9a88c356043","fromNode":"4dd7e197b367baa8","fromSide":"bottom","toNode":"2988ac099c1eeae8","toSide":"top"}
+	]
+}

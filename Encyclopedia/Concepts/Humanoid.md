@@ -1,0 +1,1 @@
+The concept of a humanoid is everything with a conscience and basic level intelligence. Older generations would have described humanoids as having a *personality*. They are most often bipedal.

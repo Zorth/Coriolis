@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"d1d3b5272af94787","type":"text","text":"","x":35,"y":-420,"width":250,"height":60},
+		{"id":"14b04ad90bc29291","type":"text","text":"Audrey Levy","x":-365,"y":-420,"width":250,"height":60},
+		{"id":"191703e7043d2911","type":"file","file":"Characters/Legends/Bahamut Levy.md","subpath":"#^infobox","x":300,"y":400,"width":365,"height":400},
+		{"id":"de6a1c14f52542ba","type":"text","text":"","x":780,"y":570,"width":50,"height":60},
+		{"id":"b1af6523d5de1ce0","type":"text","text":"","x":780,"y":860,"width":50,"height":60},
+		{"id":"e0f74c9f21d58809","type":"text","text":"","x":780,"y":720,"width":50,"height":60},
+		{"id":"877fa6c1113c5da4","type":"file","file":"Characters/Legends/Lena.md","subpath":"#^infobox","x":-205,"y":-160,"width":240,"height":420},
+		{"id":"61ce3566bd57229f","type":"file","file":"Characters/Legends/Iris Levy.md","subpath":"#^infobox","x":-240,"y":460,"width":280,"height":660},
+		{"id":"80775b073c768167","type":"file","file":"Characters/Legends/Breeze Levy.md","subpath":"#^infobox","x":-800,"y":460,"width":320,"height":400},
+		{"id":"970dda61af03b25a","type":"file","file":"Characters/Legends/Great Lora.md","subpath":"#^infobox","x":600,"y":1240,"width":330,"height":600},
+		{"id":"df7796326ee2a55e","type":"file","file":"Characters/Legends/Katara Levy.md","subpath":"#^infobox","x":1320,"y":380,"width":260,"height":400},
+		{"id":"b147af90fc02ebd5","type":"file","file":"Characters/Legends/Ishra Levy.md","subpath":"#^infobox","x":2200,"y":380,"width":290,"height":400},
+		{"id":"002c4839901dd4b4","type":"text","text":"","x":1395,"y":0,"width":50,"height":60},
+		{"id":"60d5aece4f9a36ca","type":"text","text":"Unknown [[Elf]] Father","x":2075,"y":0,"width":250,"height":60},
+		{"id":"83a64647411c4962","type":"file","file":"Characters/Legends/The Prophet.md","subpath":"#^infobox","x":1320,"y":1260,"width":260,"height":400}
+	],
+	"edges":[
+		{"id":"a78b844768f1b35b","fromNode":"14b04ad90bc29291","fromSide":"bottom","toNode":"877fa6c1113c5da4","toSide":"top"},
+		{"id":"6457ceb4ab4cce2d","fromNode":"d1d3b5272af94787","fromSide":"bottom","toNode":"877fa6c1113c5da4","toSide":"top"},
+		{"id":"de0db0f00ef4ce11","fromNode":"60d5aece4f9a36ca","fromSide":"left","toNode":"002c4839901dd4b4","toSide":"right"},
+		{"id":"7dc6f45663d73dd5","fromNode":"877fa6c1113c5da4","fromSide":"right","toNode":"002c4839901dd4b4","toSide":"left"},
+		{"id":"7054e25d1ad1bd65","fromNode":"002c4839901dd4b4","fromSide":"bottom","toNode":"191703e7043d2911","toSide":"top"},
+		{"id":"edfb5c671ef684a3","fromNode":"191703e7043d2911","fromSide":"right","toNode":"de6a1c14f52542ba","toSide":"left"},
+		{"id":"5118c3e395e4f791","fromNode":"e0f74c9f21d58809","fromSide":"bottom","toNode":"b1af6523d5de1ce0","toSide":"top"},
+		{"id":"8620a430be41afc9","fromNode":"de6a1c14f52542ba","fromSide":"bottom","toNode":"e0f74c9f21d58809","toSide":"top"},
+		{"id":"d306dacc7329637c","fromNode":"877fa6c1113c5da4","fromSide":"bottom","toNode":"61ce3566bd57229f","toSide":"top"},
+		{"id":"40d344e0ef4d2333","fromNode":"877fa6c1113c5da4","fromSide":"bottom","toNode":"80775b073c768167","toSide":"top"},
+		{"id":"d96a4f5362eb2895","fromNode":"b1af6523d5de1ce0","fromSide":"bottom","toNode":"970dda61af03b25a","toSide":"top"},
+		{"id":"1b55e98889b2b952","fromNode":"002c4839901dd4b4","fromSide":"bottom","toNode":"df7796326ee2a55e","toSide":"top"},
+		{"id":"059e002b53cef984","fromNode":"002c4839901dd4b4","fromSide":"bottom","toNode":"b147af90fc02ebd5","toSide":"top"},
+		{"id":"0db373116b15a29e","fromNode":"df7796326ee2a55e","fromSide":"bottom","toNode":"83a64647411c4962","toSide":"top","label":"Ancestor 5 generations"}
+	]
+}

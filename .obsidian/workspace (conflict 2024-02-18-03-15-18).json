@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "94f4dce845c60891",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5980babc23ca17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c77497031fef6719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Starchild/Starchild.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946299920f968a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b7e31b4e9b8586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ba4592309233e67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8169b416c3777901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e649d9aecc17b49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e00f24feb3785140",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266
+  },
+  "right": {
+    "id": "6c153739c0a56285",
+    "type": "split",
+    "children": [
+      {
+        "id": "c46280ca677e1071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78fc2cfc0de29cd6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "0075b39e4aad0992",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "76f016fafa1ed702",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaigns/Starchild/Starchild.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "573451563cee212f",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "workspaces:Manage workspace layouts": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "c77497031fef6719",
+  "lastOpenFiles": [
+    "Rulebook/Cyberpunk Red.pdf",
+    "Rulebook/Arcane/Spells/Fire Point.md",
+    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Campaigns/Starchild/Notes/Session_7.md",
+    "Rulebook/Arcane/Using Incantations.md",
+    "Rulebook/Tables/Single Shot DVs Based on Range.md",
+    "Rulebook/Tables/Body Critical Injury.md",
+    "Rulebook/Bestiary/Novice.md",
+    "Images/Spells/Glyphs/jfdksal;fjdkasl;dfj.png",
+    "Images/Spells/Glyphs/Fire_Red_Hot - Copy.png",
+    "Rulebook/Tables/Difficulty Values.md",
+    "Characters/Minor/Edric Rogerton.md",
+    "Encyclopedia/Concepts/Incantation.md",
+    "Rulebook/Arcane/Writing Spells.md",
+    "Characters/Minor/Isabella Nightshade.md",
+    "Encyclopedia/Datashards/Documents/Embers 1518.md",
+    "Rulebook/Skills/Skills.md",
+    "Encyclopedia/Concepts/Phoenix.md",
+    "Characters/Minor/Ember.md",
+    "Elysian Order.md",
+    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight.md",
+    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/North/Midnight Whispers.md",
+    "Campaigns/Starchild/Starchild.md",
+    "Characters/Minor/Arthur Hawthorne.md",
+    "Rulebook/Arcane/Mutation.md",
+    "Encyclopedia/Concepts/Vasl.md",
+    "Images/Spells/A9R1xbxy3h_nn2qcy_334.tmp",
+    "Images/Spells/~ai-c5a9ee00-bcd8-45cc-83de-bd88e2b89c05_.tmp",
+    "Images/Spells/A9Rr5wb3c_okkpyc_ehg.tmp",
+    "Images/Spells/Glyphs/Fire_Red_Hot.png",
+    "Images/Spells/Fire_Red_Hot.png",
+    "Images/Spells/Modifier.png",
+    "Images/Spells/Modifier.png.tmp$$",
+    "Images/Spells/Glyphs/Soul.png",
+    "Images/Spells/Soul.png",
+    "Images/Spells/Artboard 1.png",
+    "Images/Spells/Artboard 1.png.tmp$$",
+    "Images/Spells/Glyphs/Dimensional.png",
+    "Images/Spells/Dimensional.png",
+    "Images/Spells/Glyphs",
+    "Images/Spells/New folder",
+    "Outlands.md",
+    "Encyclopedia/Datashards/Excerpts/Comprehension_Iris.md",
+    "Encyclopedia/Organizations/Lost Syndicate/Aegis Vanguard.md",
+    "Templates/Scripts/getThisGameNum.js",
+    "Templates/Scripts",
+    "Encyclopedia/Organizations/Families/Levy Family Tree.canvas",
+    "Campaigns/Starchild/Starchild-outline (conflict 2023-12-29-19-06-17).canvas",
+    "Untitled.canvas",
+    "templates/Untitled.canvas"
+  ]
+}

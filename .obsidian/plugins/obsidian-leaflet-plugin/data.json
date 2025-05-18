@@ -1,0 +1,926 @@
+{
+  "mapMarkers": [
+    {
+      "id": "BlackMoonlight-map",
+      "lastAccessed": 1695073065524,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -2.701171875,
+              "lng": 2.720703125,
+              "id": "ID_bafa492bd829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.83203125,
+              "lng": 2.8740234375,
+              "id": "ID_fbdbe9183b09",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Black Moonlight.md"
+      ]
+    },
+    {
+      "id": "ReikerStudio",
+      "lastAccessed": 1698158381719,
+      "markers": [
+        {
+          "id": "ID_daaafa4a4ac8",
+          "type": "Room",
+          "loc": [
+            -3.53265380859375,
+            2.88671875
+          ],
+          "layer": "%5B%5BReikerStudio1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08cb1b284a9a",
+          "type": "Room",
+          "loc": [
+            -4.3984375,
+            4.1171875
+          ],
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9265934065934066,
+            0.8466165413533835
+          ],
+          "description": "Stairs Down",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b89b8868fb7a",
+          "type": "Room",
+          "loc": [
+            -4.703125,
+            3.5859375
+          ],
+          "link": "Reiker Studio#200 Broomcloset",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.807032967032967,
+            0.9052631578947369
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796988a9ba4a",
+          "type": "Room",
+          "loc": [
+            -3.93890380859375,
+            2.86328125
+          ],
+          "link": "Reiker Studio#210 Gallery",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ebb96abbaa",
+          "type": "Room",
+          "loc": [
+            -3.83343505859375,
+            3.40234375
+          ],
+          "link": "Reiker Studio#215 visitor room",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d81b49baca4b",
+          "type": "Room",
+          "loc": [
+            -3.18359375,
+            2.94921875
+          ],
+          "link": "Reiker Studio#220 Servers",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6637362637362637,
+            0.6127819548872181
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b49fbea9a28",
+          "type": "Room",
+          "loc": [
+            -3.984375,
+            1.21875
+          ],
+          "link": "Reiker Studio#230 Studio 110 rafters",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2742857142857143,
+            0.7669172932330827
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b3b5b7b8bb9",
+          "type": "Room",
+          "loc": [
+            -2.27874755859375,
+            0.94921875
+          ],
+          "link": "Reiker Studio#240 Post Production",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb591b59b97b",
+          "type": "Room",
+          "loc": [
+            -2.16937255859375,
+            1.5234375
+          ],
+          "link": "Reiker Studio#245 Post Production",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79cb88d8ab49",
+          "type": "Room",
+          "loc": [
+            -2.24359130859375,
+            2.0703125
+          ],
+          "link": "Reiker Studio#250 Post Production",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1ba9ca7b89fa",
+          "type": "Room",
+          "loc": [
+            -3.2890625,
+            4.1015625
+          ],
+          "link": "Reiker Studio#260 Bathrooms",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9230769230769231,
+            0.6330827067669172
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a789b09d90b",
+          "type": "Room",
+          "loc": [
+            -3.79437255859375,
+            4.13671875
+          ],
+          "link": "Reiker Studio#270 Bathrooms",
+          "layer": "%5B%5BReikerStudio2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Reiker Studio.md"
+      ]
+    },
+    {
+      "id": "Olympus-map",
+      "locked": true,
+      "lastAccessed": 1716662776246,
+      "markers": [
+        {
+          "id": "ID_2aab1b980898",
+          "type": "Static",
+          "loc": [
+            -1.7608642578125,
+            2.0966796875
+          ],
+          "link": "Madia",
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a4aeb28b85b",
+          "type": "Static",
+          "loc": [
+            -0.361572265625,
+            2.5625
+          ],
+          "link": "Boubinia",
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9fb1b594aaa",
+          "type": "Static",
+          "loc": [
+            -1.047119140625,
+            1.884765625
+          ],
+          "link": "Arcstar",
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus.md"
+      ]
+    },
+    {
+      "id": "fjord-map",
+      "lastAccessed": 1724010957929,
+      "markers": [
+        {
+          "id": "ID_5a582978abdb",
+          "type": "default",
+          "loc": [
+            -0.6472930908203125,
+            0.4758239076657129
+          ],
+          "layer": "Fjord_map.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pelican Bay",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9eb4ab80b99",
+          "type": "default",
+          "loc": [
+            -0.4197540283203125,
+            0.6204240805317119
+          ],
+          "layer": "Fjord_map.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Beach Shores",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia/ARGUS/Fjord.md"
+      ]
+    },
+    {
+      "id": "Sylvaray-map",
+      "lastAccessed": 1728140510639,
+      "markers": [
+        {
+          "id": "ID_fbfb680ad8e9",
+          "type": "Static",
+          "loc": [
+            -4.177886962890625,
+            8.0390625
+          ],
+          "link": "Black Moonlight",
+          "layer": "%5B%5BSylvaray_map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb3b88a98b5b",
+          "type": "Static",
+          "loc": [
+            -3.5830841064453125,
+            5.9287109375
+          ],
+          "link": "Kreturu",
+          "layer": "%5B%5BSylvaray_map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8da989af9e9",
+          "type": "Static",
+          "loc": [
+            -1.7940216064453125,
+            5.2236328125
+          ],
+          "link": "Hearthinve",
+          "layer": "%5B%5BSylvaray_map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia/Sylvaray.md"
+      ]
+    },
+    {
+      "id": "Madia-map",
+      "lastAccessed": 1728140511002,
+      "markers": [
+        {
+          "id": "ID_095a09b84a99",
+          "type": "Sylvaray",
+          "loc": [
+            -3.369163751602173,
+            8.594933208217133
+          ],
+          "link": "Sylvaray",
+          "layer": "%5B%5BMadia.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5854983771430511,
+            0.4632147800269368
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia.md"
+      ]
+    },
+    {
+      "id": "Location-map",
+      "locked": true,
+      "lastAccessed": 1731986606940,
+      "markers": [
+        {
+          "id": "ID_386898a8483a",
+          "type": "default",
+          "loc": [
+            -1.75,
+            2.09765625
+          ],
+          "link": "Madia",
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.559375,
+            0.8296296296296296
+          ],
+          "description": "Madia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89b95b88caab",
+          "type": "default",
+          "loc": [
+            -0.35546875,
+            2.5625
+          ],
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6833333333333333,
+            0.1685185185185185
+          ],
+          "description": "Boubinia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39da99283b7b",
+          "type": "default",
+          "loc": [
+            -1.045166015625,
+            1.8759765625
+          ],
+          "link": "Olympus",
+          "layer": "galMap.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Olympus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia/TRE/Daru.md"
+      ]
+    },
+    {
+      "id": "BlackMoonlight",
+      "locked": false,
+      "lastAccessed": 1745781012936,
+      "markers": [
+        {
+          "id": "ID_79c86809286b",
+          "type": "Character",
+          "loc": [
+            -0.9453125,
+            3.921856936416185
+          ],
+          "link": "Starchild",
+          "layer": "%5B%5BBlackMoonlight_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1673325626204239,
+            0.04033333333333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29f8ab59185b",
+          "type": "Housing",
+          "loc": [
+            -8.79437255859375,
+            10.932999067164179
+          ],
+          "layer": "%5B%5BBlackMoonlight_map.png%7CStreets%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b8ab8689978",
+          "type": "Housing",
+          "loc": [
+            -5.4822998046875,
+            9.18359375
+          ],
+          "link": "Megabuilding H07",
+          "layer": "%5B%5BBlackMoonlight_map.png%7CStreets%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9caa97aebbb",
+          "type": "default",
+          "loc": [
+            -5.53802490234375,
+            8.658203125
+          ],
+          "layer": "%5B%5BBlackMoonlight_map.png%7CStreets%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "N30",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da3adbebfb7b",
+          "type": "ARGUS",
+          "loc": [
+            -13.0078125,
+            10.265614022248243
+          ],
+          "link": "ARGUS R&D lab 616B",
+          "layer": "%5B%5BBlackMoonlight_map.png%7CStreets%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43799953161592503,
+            0.555
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Olympus/Madia/Sylvaray/Black Moonlight.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Character",
+      "iconName": "user",
+      "color": "#fe2ab0",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Character"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Static",
+      "iconName": "globe",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Sat & SBSs",
+      "iconName": "satellite",
+      "color": "#00ff7b",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Housing",
+      "iconName": "house-user",
+      "color": "#74c7fb",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Bar",
+      "iconName": "beer",
+      "color": "#fff266",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Affection",
+      "iconName": "house-user",
+      "color": "#e6199b",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Sylvaray",
+      "iconName": "ad",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Hideout",
+      "iconName": "warehouse",
+      "color": "#5c5c5c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Continental",
+      "iconName": "ad",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Room",
+      "iconName": "door-open",
+      "color": "#707070",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Venue",
+      "iconName": "warehouse",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "ARGUS",
+      "iconName": "money-bill",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "ARGUS"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "TRE",
+      "iconName": "cross",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAyNJREFUSEu1lc9LG0EUx9/bHYMgXkSpYEEK6alFUdcarcqeKoK0goIgCl4NvQsqJlUQRK8iHvwDNAomt6yCcaPRKN5aPLTQgwWX6EE8CArJljdmls06a0uhC2HezM5+P2/ejwnCf37Qrd/c3BwRc0VRoFAoAI1+j9+7k5OTL+IbL8BGfFyybRvIFnNaE7Z7JJv2OoKIcHx87Oj6AoSgEPCKugW99tHRkRzQ0tLiuOL1vLGxES4uLuDm5qbkJLITHh4ePg+gj2pra2FqagoWFhbg8vISysvL+XxmZoYDIpEIzM3NcefdEJofHBw8HyJ3OGZnZ2FtbY0nOxqNwuTkJORyOVhZWYFwOPwkLwRIp9P+J/DGmuajo6Pc01AoBJWVlRCPx2FgYADGxsakiU+lUnKApmlOFYkKco/V1dUQDAZhenoa5ufn4fT09EmlkSN7e3vPA2TiYq2urg6WlpZ4PizLgsHBQdjf3+e2yMfu7q4voICPj+MZ2aKhaKTf8PAwZDIZLtjZ2Qnr6+tOqO7v723TNJ3uLOkDTdM+ImLcKyiAtE52b28v9PX1QSAQANM0OUB8c3d398k0zYS0k1tbW98oivJVJFp4TJuFraoqjIyMQFdXF+8LKmN3YeTz+bfJZPKbFNDU1FQTCAQ2EFEXoRGj8L6+vp73AvXB1dUVFxfvACD18PAwZBhGTgooliJdeFGvsDjB6uoqVFRU8H7o7+/npzAMQ0Ci29vbzkXHk+69Kdva2l4ioqkoyishKmB0XUxMTMD5+TlQNVHDLS4ucnHbtn9altWdzWZ/uTWfAOhlR0dHGBGXBYDGhoYGLh6LxSCZTJbkpJjgz1tbW8teh6WAYqjssrIyoKSSgKZp/GoYHx93xBlj3L69vYWdnR2pli+gvb09yBjLqKpaQyEikIC5bcYYJfR9LBb7Iftj8gXQZl3XdQDYUBSlRgZQVTWHiEObm5spmbg0yd6Nuq4HVVX97vWe5oyx136e+5apzJOenp5gPp9PM8ZeFEEWInYnEglpWP5YRTKIpmnvqqqqPtBFdX19bZydnWX9wvJPgL8Rk+35DVOh+RlRGjEQAAAAAElFTkSuQmCC",
+      "tags": [
+        "TRE"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[BlackMoonlight_map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[BlackMoonlight_map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "BlackMoonlight-map",
+    "filterTag": []
+  },
+  "enableDraw": false,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
