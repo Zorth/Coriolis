@@ -6,7 +6,11 @@ realdate: 2025-05-18
 Campaign: "[[Starchild]]"
 cssclasses:
   - cards
-players: []
+players:
+  - "[[N0rt0n]]"
+  - "[[8-Bit]]"
+  - "[[BluЯ]]"
+  - "[[D0LL]]"
 ---
 ```meta-bind
 INPUT[multiSelect(
@@ -26,5 +30,8 @@ SORT file.name
 # Recap
 ![[The mind freed from passion_Breeze]]
 ![[Session_24#Summary]]
+# Plans
+- They have to get up to floor 25, they only have a badge to floor 23-24 for 1 person.
+- Security patrols in the hallways of every floor.
 # NOTES
 # Summary

@@ -11,17 +11,17 @@
             "id": "4ea86374a763ed4a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Dai Ten",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stubs/Dai Ten.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dai Ten\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":13},\"to\":{\"line\":4,\"ch\":13}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Session_24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_24.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_24\"}",
+                  "eState": "{\"scroll\":30.11111111111111}"
                 },
                 {
                   "title": "Session_23",
@@ -556,35 +556,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session_24"
-            }
-          },
-          {
-            "id": "74b918427d16e760",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stubs/The mind freed from passion_Breeze.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The mind freed from passion_Breeze"
+              "title": "Session_25"
             }
           },
           {
@@ -604,9 +581,9 @@
               "state": {
                 "file": "Campaigns/Starchild/Starchild-outline.canvas",
                 "viewState": {
-                  "x": 1227.1593712084955,
-                  "y": 26770.508917957126,
-                  "zoom": -2.022813379963257
+                  "x": 1125.3873259993563,
+                  "y": 26361.793405032768,
+                  "zoom": -1.0081917149077035
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -954,7 +931,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -964,7 +941,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session_24"
+              "title": "Backlinks for Session_25"
             }
           },
           {
@@ -982,12 +959,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session_24"
+              "title": "Outgoing links from Session_25"
             }
           }
         ],
@@ -1009,7 +986,8 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "copilot:Open Copilot Chat": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4ea86374a763ed4a",
@@ -1017,13 +995,16 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Stubs/The mind freed from passion_Breeze.md",
+    "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Notes/Session_25.md",
     "Campaigns/Starchild/Notes/Session_24.md",
-    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Encyclopedia/Datashards/Excerpts/The mind freed from passion_Breeze.md",
+    "Stubs/Gertrud Rhetta.md",
+    "Stubs/Dai Ten.md",
+    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
+    "Images/sketch 616B.png",
     "Campaigns/Starchild/Starchild.md",
     "Stubs/Sharpness V raid.md",
-    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
     "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/CEMK Rule Book.pdf",
@@ -1033,8 +1014,6 @@
     "Stubs/Gunnot.md",
     "Atlas/Olympus/Madia/Sylvaray/Black Moonlight.md",
     "Encyclopedia/Organizations/Corp/The Continental.md",
-    "Images/sketch 616B.png",
-    "Stubs/Dai Ten.md",
     "Campaigns/Starchild/Characters/Sug4r.md",
     "Campaigns/Starchild/Characters/D0LL.md",
     "Campaigns/Starchild/Characters/N0rt0n.md",
@@ -1043,10 +1022,8 @@
     "Campaigns/Starchild/Notes/Session_23.md",
     "Characters/Minor/Brother Cassian Vale.md",
     "Encyclopedia/Datashards/Excerpts/Giants_Breeze.md",
-    "Stubs/Gertrud Rhetta.md",
     "Campaigns/Starchild/Notes/Session_32.md",
     "Campaigns/Starchild/Notes/Session_31.md",
-    "Campaigns/Starchild/Notes/Session_30.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",
