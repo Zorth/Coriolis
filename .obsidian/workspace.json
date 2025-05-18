@@ -581,8 +581,8 @@
               "state": {
                 "file": "Campaigns/Starchild/Starchild-outline.canvas",
                 "viewState": {
-                  "x": 1125.3873259993563,
-                  "y": 26361.793405032768,
+                  "x": 1065.045673108235,
+                  "y": 26351.736462884248,
                   "zoom": -1.0081917149077035
                 }
               },
@@ -590,7 +590,8 @@
               "title": "Starchild-outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -931,7 +932,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
+                "file": "Campaigns/Starchild/Starchild-outline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -941,7 +942,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session_25"
+              "title": "Backlinks for Starchild-outline"
             }
           },
           {
@@ -959,12 +960,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
+                "file": "Campaigns/Starchild/Starchild-outline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session_25"
+              "title": "Outgoing links from Starchild-outline"
             }
           }
         ],
@@ -990,13 +991,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea86374a763ed4a",
+  "active": "971c5f645e616d9c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Encyclopedia/Datashards/Excerpts/The mind freed from passion_Breeze.md",
+    "Encyclopedia/Species/Arzen.md",
+    "Atlas/Olympus/Madia.md",
     "Campaigns/Starchild/Notes/Session_25.md",
+    "Encyclopedia/Datashards/Excerpts/The mind freed from passion_Breeze.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Notes/Session_24.md",
     "Stubs/Gertrud Rhetta.md",
@@ -1023,7 +1026,6 @@
     "Characters/Minor/Brother Cassian Vale.md",
     "Encyclopedia/Datashards/Excerpts/Giants_Breeze.md",
     "Campaigns/Starchild/Notes/Session_32.md",
-    "Campaigns/Starchild/Notes/Session_31.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",

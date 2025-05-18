@@ -33,6 +33,6 @@ SORT file.name
 # Plans
 - They have to get up to floor 25, they only have a badge to floor 23-24 for 1 person.
 - Security patrols in the hallways of every floor.
-- 
+- Bio Lock on [[Sharpness V]]
 # NOTES
 # Summary
