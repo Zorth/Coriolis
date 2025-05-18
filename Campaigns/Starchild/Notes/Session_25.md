@@ -35,4 +35,8 @@ SORT file.name
 - Security patrols in the hallways of every floor.
 - Bio Lock on [[Sharpness V]]
 # NOTES
+- [[8-Bit]] entered facility
+- went after [[BluЯ]] at security station
+- older gentleman, thick white moustache [[Elliott Mihaita]]
+	- they report to ""
 # Summary
