@@ -621,22 +621,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "BinaryBard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Recurring/Netrunner/BinaryBard.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"BinaryBard\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Recurring/Netrunner/BinaryBard.md",
-                "mode": "preview",
-                "source": true
+                "file": "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
+                "viewState": {
+                  "x": 2039.3281941000048,
+                  "y": -906.1284347376329,
+                  "zoom": -0.016406865131978057
+                }
               },
-              "icon": "lucide-file",
-              "title": "BinaryBard"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lot 2 Net Arch"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -686,7 +695,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Skunk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -738,7 +747,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -943,10 +953,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Images/Spider Walking Drone.png",
-    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Characters/Recurring/Netrunner/BinaryBard.md",
     "Cyberpunk/Cyberpunk Red.pdf",
+    "Images/Spider Walking Drone.png",
+    "Campaigns/Starchild/Starchild-outline.canvas",
     "Cyberpunk/CEMK Rule Book.pdf",
     "Images/Automated Turret Snippet.png",
     "Cyberpunk/Skills/Skills.md",
@@ -991,7 +1002,6 @@
     "Images/Spells/A9R1ve1nfb_1rac9ee_1fb0.tmp",
     "Images/Spells/~ai-f087cfd8-736d-452a-80a3-17c465fe8152_.tmp",
     "Campaigns/Starchild/Starchild-outline_ot.canvas",
-    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Atlas/Olympus/Madia/ARGUS/Fjord/Clip Security Point.canvas",
     "Templates/Net Arch.canvas",
     "Campaigns/Starchild/Starchild-outline (conflict 2024-03-03-01-26-27).canvas",
