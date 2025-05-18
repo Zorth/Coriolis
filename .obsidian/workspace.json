@@ -613,8 +613,7 @@
               "title": "Session_24"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -746,7 +745,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "file": "Cyberpunk/Skills/Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -774,7 +773,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session_24"
+              "title": "Graph of Skills"
             }
           },
           {
@@ -894,7 +893,8 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -916,14 +916,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a94384c85a8d8433",
+  "active": "94c9870c3f8dc08d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Characters/Minor/Stephen.md",
-    "Campaigns/Starchild/Notes/Session_24.md",
     "Campaigns/Starchild/Notes/Session_25.md",
+    "Campaigns/Starchild/Notes/Session_24.md",
+    "Characters/Minor/Stephen.md",
     "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Bestiary/Novice.md",
