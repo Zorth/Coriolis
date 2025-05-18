@@ -13,7 +13,7 @@
   "openRouterAiApiKey": "",
   "defaultModelKey": "deepseek-r1-distill-qwen-7b|lm-studio",
   "embeddingModelKey": "text-embedding-nomic-embed-text-v1.5|lm-studio",
-  "temperature": 0.1,
+  "temperature": 0.15,
   "maxTokens": 1000,
   "contextTurns": 15,
   "userSystemPrompt": "",

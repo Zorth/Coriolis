@@ -613,7 +613,8 @@
               "title": "BinaryBard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -719,8 +720,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6c153739c0a56285",
@@ -745,7 +745,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
+                "file": "Characters/Recurring/Netrunner/BinaryBard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -773,7 +773,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session_25"
+              "title": "Graph of BinaryBard"
             }
           },
           {
@@ -894,7 +894,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -916,16 +916,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed536ea5d669409c",
+  "active": "eb964b66a25b8f8b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Stubs/Cybermatrix Gang Jazzler.md",
+    "Images/CybermatrixGangJazzler.png",
+    "Characters/Recurring/Netrunner/BinaryBard.md",
+    "Images/Pasted image 20250223162011.png",
+    "Cyberpunk/Skills/Skills.md",
+    "Campaigns/Starchild/Notes/Session_25.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Notes/Session_24.md",
-    "Characters/Recurring/Netrunner/BinaryBard.md",
-    "Campaigns/Starchild/Notes/Session_25.md",
-    "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/CEMK Rule Book.pdf",
     "Characters/Minor/Stephen.md",
@@ -949,13 +952,11 @@
     "Campaigns/Starchild/Characters/N0rt0n.md",
     "Atlas/Olympus/Madia/ARGUS.md",
     "Encyclopedia/Concepts/Woven Relic.md",
-    "Campaigns/Starchild/Notes/Session_23.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",
     "Images/Characters/s1mp.jpg.opdownload",
     "Encyclopedia/Organizations/Families/Levy Family Tree.canvas",
-    "Images/Pasted image 20250223162011.png",
     "Cyberpunk/Other PDF/toaz.info-cyberpunk-red-black-chorme-shopping-book-pr_05a7372b02d69af3bc7c04e98bfeb3e5.pdf",
     "Images/Spells/Push_Person_ref5_power2.png",
     "Images/Spells/PushPerson.png",
@@ -967,7 +968,6 @@
     "Images/Spells/~ai-f087cfd8-736d-452a-80a3-17c465fe8152_.tmp",
     "Images/Characters/Hoavam von Reiktem.webp",
     "Images/Characters/BluЯ.jpg",
-    "Images/Characters/Yugen.jpg",
     "Campaigns/Starchild/Starchild-outline_ot.canvas",
     "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Atlas/Olympus/Madia/ARGUS/Fjord/Clip Security Point.canvas",
