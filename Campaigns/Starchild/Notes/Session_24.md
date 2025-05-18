@@ -51,4 +51,4 @@ SORT file.name
 	- 3 bots and security officer walk into security closet
 	- [[BluЯ]] abandoned, but not resisted arrest.
 # Summary
-Last episode, our edgerunners made the final preparations for the heist on [[ARGUS R&D lab 616B]]. After scouting the outside, the heist begun. Using the badge of [[Erik Holmstrand]] (whom was dropped off with [[Moonwheels]]) they managed to enter the facility and make their way to the correct building.
+Last episode, our edgerunners made the final preparations for the heist on [[ARGUS R&D lab 616B]]. After scouting the outside, the heist begun. Using the badge of [[Erik Holmstrand]] (whom was dropped off with [[Moonwheels]]) they managed to enter the facility and make their way to the correct building. There the plan continued to have [[BluЯ]] hack the elevator to the correct floor. Unfortunately he managed to trip the alarm

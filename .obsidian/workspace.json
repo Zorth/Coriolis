@@ -565,7 +565,7 @@
             }
           },
           {
-            "id": "87149cf362debc30",
+            "id": "74b918427d16e760",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -573,24 +573,44 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Starchild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Starchild\"}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
-                "mode": "preview",
+                "file": "Stubs/The mind freed from passion_Breeze.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session_25"
+              "title": "The mind freed from passion_Breeze"
+            }
+          },
+          {
+            "id": "971c5f645e616d9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Campaigns/Starchild/Starchild-outline.canvas",
+                "viewState": {
+                  "x": 1227.1593712084955,
+                  "y": 26770.508917957126,
+                  "zoom": -2.022813379963257
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Starchild-outline"
             }
           }
         ]
@@ -997,12 +1017,13 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Stubs/The mind freed from passion_Breeze.md",
     "Campaigns/Starchild/Notes/Session_25.md",
+    "Campaigns/Starchild/Notes/Session_24.md",
+    "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Starchild.md",
     "Stubs/Sharpness V raid.md",
     "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
-    "Campaigns/Starchild/Starchild-outline.canvas",
-    "Campaigns/Starchild/Notes/Session_24.md",
     "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/CEMK Rule Book.pdf",
