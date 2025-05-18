@@ -591,6 +591,27 @@
             }
           },
           {
+            "id": "596fb03aac56c397",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Automated Turret Snippet.png"
+              },
+              "icon": "lucide-image",
+              "title": "Automated Turret Snippet"
+            }
+          },
+          {
             "id": "eb964b66a25b8f8b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -613,7 +634,8 @@
               "title": "BinaryBard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -744,7 +766,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
+                "file": "Cyberpunk/Cyberpunk Red.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -772,7 +794,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session_25"
+              "title": "Graph of Cyberpunk Red"
             }
           },
           {
@@ -893,7 +915,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -915,23 +937,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea86374a763ed4a",
+  "active": "9f7e254c557b50c4",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Stubs/The Cloak of the Forgotten.md",
+    "Images/Automated Turret Snippet.png",
+    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Cyberpunk/Cyberpunk Red.pdf",
+    "Cyberpunk/Skills/Skills.md",
     "Campaigns/Starchild/Notes/Session_25.md",
+    "Stubs/The Cloak of the Forgotten.md",
     "Stubs/The Hat of the Sunlit Dawn.md",
     "Stubs/The Dagger of the Wandering.md",
-    "Cyberpunk/Skills/Skills.md",
     "Characters/Recurring/Netrunner/BinaryBard.md",
     "Stubs/Cybermatrix Gang Jazzler.md",
     "Images/CybermatrixGangJazzler.png",
     "Images/Pasted image 20250223162011.png",
-    "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Notes/Session_24.md",
-    "Cyberpunk/Cyberpunk Red.pdf",
     "Cyberpunk/CEMK Rule Book.pdf",
     "Characters/Minor/Stephen.md",
     "Cyberpunk/Bestiary/Novice.md",
@@ -951,7 +974,6 @@
     "Encyclopedia/Organizations/Corp/The Continental.md",
     "Campaigns/Starchild/Characters/Sug4r.md",
     "Campaigns/Starchild/Characters/D0LL.md",
-    "Campaigns/Starchild/Characters/N0rt0n.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",
@@ -967,7 +989,6 @@
     "Images/Spells/A9R1ve1nfb_1rac9ee_1fb0.tmp",
     "Images/Spells/~ai-f087cfd8-736d-452a-80a3-17c465fe8152_.tmp",
     "Images/Characters/Hoavam von Reiktem.webp",
-    "Images/Characters/BluЯ.jpg",
     "Campaigns/Starchild/Starchild-outline_ot.canvas",
     "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Atlas/Olympus/Madia/ARGUS/Fjord/Clip Security Point.canvas",
