@@ -41,4 +41,6 @@ SORT file.name
 	- they report to "[[Dragutin Rut]]" (works for [[ARGUS military force]])
 - actual response force shows up (handled by [[8-Bit]])
 - called in [[BinaryBard]] as a favour, wants the [[The Amulet of the Undead]] in exchange.
+- dropped into analasys unit of [[Sharpness V]] (floor 26) and *captured* the intern.
+- 
 # Summary

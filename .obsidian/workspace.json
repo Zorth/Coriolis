@@ -613,8 +613,7 @@
               "title": "BinaryBard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -745,7 +744,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/Recurring/Netrunner/BinaryBard.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -773,7 +772,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of BinaryBard"
+              "title": "Graph of Session_25"
             }
           },
           {
@@ -894,7 +893,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -916,16 +915,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb964b66a25b8f8b",
+  "active": "4ea86374a763ed4a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cyberpunk/Skills/Skills.md",
+    "Characters/Recurring/Netrunner/BinaryBard.md",
     "Stubs/Cybermatrix Gang Jazzler.md",
     "Images/CybermatrixGangJazzler.png",
-    "Characters/Recurring/Netrunner/BinaryBard.md",
     "Images/Pasted image 20250223162011.png",
-    "Cyberpunk/Skills/Skills.md",
     "Campaigns/Starchild/Notes/Session_25.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
     "Campaigns/Starchild/Notes/Session_24.md",
