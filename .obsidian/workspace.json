@@ -745,7 +745,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cyberpunk/Skills/Skills.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -773,7 +773,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skills"
+              "title": "Graph of Session_25"
             }
           },
           {
@@ -916,18 +916,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94c9870c3f8dc08d",
+  "active": "4ea86374a763ed4a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cyberpunk/Skills/Skills.md",
+    "Cyberpunk/Cyberpunk Red.pdf",
+    "Cyberpunk/CEMK Rule Book.pdf",
     "Campaigns/Starchild/Notes/Session_25.md",
     "Campaigns/Starchild/Notes/Session_24.md",
     "Characters/Minor/Stephen.md",
-    "Cyberpunk/Cyberpunk Red.pdf",
-    "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Bestiary/Novice.md",
-    "Cyberpunk/CEMK Rule Book.pdf",
     "Stubs/Gunnot.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
     "Encyclopedia/Species/Arzen.md",
@@ -950,7 +950,6 @@
     "Encyclopedia/Concepts/Woven Relic.md",
     "Campaigns/Starchild/Notes/Session_23.md",
     "Characters/Minor/Brother Cassian Vale.md",
-    "Encyclopedia/Datashards/Excerpts/Giants_Breeze.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",

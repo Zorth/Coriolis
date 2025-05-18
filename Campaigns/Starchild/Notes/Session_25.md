@@ -39,4 +39,5 @@ SORT file.name
 - went after [[BluЯ]] at security station
 - older gentleman, thick white moustache [[Elliott Mihaita]]
 	- they report to "[[Dragutin Rut]]" (works for [[ARGUS military force]])
+- actual response force shows up (handled by [[8-Bit]])
 # Summary
