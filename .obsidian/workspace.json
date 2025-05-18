@@ -638,8 +638,7 @@
               "title": "Starchild-outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -771,7 +770,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cyberpunk/Skills/Skills.md",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -799,7 +798,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skills"
+              "title": "Graph of Session_25"
             }
           },
           {
@@ -920,7 +919,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -942,20 +941,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94c9870c3f8dc08d",
+  "active": "4ea86374a763ed4a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cyberpunk/Cyberpunk Red.pdf",
+    "Cyberpunk/CEMK Rule Book.pdf",
+    "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Bestiary/Novice.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
-    "Cyberpunk/Cyberpunk Red.pdf",
     "Images/Automated Turret Snippet.png",
     "Images/Spider Walking Drone.png",
     "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Characters/Recurring/Netrunner/BinaryBard.md",
-    "Cyberpunk/CEMK Rule Book.pdf",
-    "Cyberpunk/Skills/Skills.md",
     "Campaigns/Starchild/Notes/Session_25.md",
     "Stubs/The Cloak of the Forgotten.md",
     "Stubs/The Hat of the Sunlit Dawn.md",

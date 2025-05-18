@@ -42,5 +42,6 @@ SORT file.name
 - actual response force shows up (handled by [[8-Bit]])
 - called in [[BinaryBard]] as a favour, wants the [[The Amulet of the Undead]] in exchange.
 - dropped into analysis unit of [[Sharpness V]] (floor 26) and *captured* the intern (Brian).
-- 
+- Ended in the hallway down outside floor 25
+- [[8-Bit]] has [[Sharpness V]] in the vents outside
 # Summary
