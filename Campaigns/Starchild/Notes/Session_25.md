@@ -24,6 +24,7 @@ WHERE icontains(this.players, file.link )
 SORT file.name
 ```
 # Recap
+![[The mind freed from passion_Breeze]]
 ![[Session_24#Summary]]
 # NOTES
 # Summary
