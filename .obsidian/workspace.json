@@ -611,9 +611,35 @@
               "icon": "lucide-image",
               "title": "Automated Turret Snippet"
             }
+          },
+          {
+            "id": "33cec2883fb21ce4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Campaigns/Starchild/Starchild-outline.canvas",
+                "viewState": {
+                  "x": 1212.3230053502764,
+                  "y": 26757.4317165844,
+                  "zoom": -0.76763447072357
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Starchild-outline"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -745,7 +771,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "file": "Cyberpunk/Skills/Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -773,7 +799,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cyberpunk Red"
+              "title": "Graph of Skills"
             }
           },
           {
@@ -894,7 +920,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -916,17 +942,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7e254c557b50c4",
+  "active": "94c9870c3f8dc08d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
-    "Cyberpunk/Cyberpunk Red.pdf",
-    "Images/Spider Walking Drone.png",
-    "Images/Automated Turret Snippet.png",
-    "Characters/Recurring/Netrunner/BinaryBard.md",
+    "Cyberpunk/Bestiary/Novice.md",
     "Campaigns/Starchild/Starchild-outline.canvas",
+    "Cyberpunk/Cyberpunk Red.pdf",
+    "Images/Automated Turret Snippet.png",
+    "Images/Spider Walking Drone.png",
+    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
+    "Characters/Recurring/Netrunner/BinaryBard.md",
     "Cyberpunk/CEMK Rule Book.pdf",
     "Cyberpunk/Skills/Skills.md",
     "Campaigns/Starchild/Notes/Session_25.md",
@@ -938,7 +965,6 @@
     "Images/Pasted image 20250223162011.png",
     "Campaigns/Starchild/Notes/Session_24.md",
     "Characters/Minor/Stephen.md",
-    "Cyberpunk/Bestiary/Novice.md",
     "Stubs/Gunnot.md",
     "Encyclopedia/Species/Arzen.md",
     "Atlas/Olympus/Madia.md",
