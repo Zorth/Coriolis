@@ -688,7 +688,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Liche",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -740,8 +740,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -921,10 +920,19 @@
           {
             "id": "98681185f386df3a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -934,26 +942,44 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cyberpunk Red"
+              "title": "Backlinks for Session_25"
             }
           },
           {
             "id": "46ad810b8904d06c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cyberpunk Red"
+              "title": "Outgoing links from Session_25"
             }
           },
           {
             "id": "ccfaa3e5dccf66ea",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -968,16 +994,25 @@
           {
             "id": "fcd084ce64c2c137",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "file": "Campaigns/Starchild/Notes/Session_25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cyberpunk Red"
+              "title": "Outline of Session_25"
             }
           }
         ],
@@ -1003,7 +1038,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7e254c557b50c4",
+  "active": "4ea86374a763ed4a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },

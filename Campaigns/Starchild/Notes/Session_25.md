@@ -45,3 +45,4 @@ SORT file.name
 - Ended in the hallway down outside floor 25
 - [[8-Bit]] has [[Sharpness V]] in the vents outside
 # Summary
+Last Episode, the heist continued. With [[8-Bit]] showing up to the compound, unquestioned by the others, they followed [[BluЯ]] being dragged to the security compound. There they freed him, with an improvised plan and calling in a lifeline. [[BinaryBard]]. She's made a deal to help the edgerunners in exchange for [[The Amulet of the Undead]], located on the floor below their objective. A deal, the edgerunners were more favorable to take instead of the money hiring [[BinaryBard]] would require. So they continued, with the Netrunner's help where possible. They managed to get their hands on [[Sharpness V]]. With [[8-Bit]] on the way out with the artifact, the rest decided that going through the inside of the building is a better option that the vents outside.
