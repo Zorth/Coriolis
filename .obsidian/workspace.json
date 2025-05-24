@@ -917,6 +917,68 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "98681185f386df3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cyberpunk Red"
+            }
+          },
+          {
+            "id": "46ad810b8904d06c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cyberpunk Red"
+            }
+          },
+          {
+            "id": "ccfaa3e5dccf66ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fcd084ce64c2c137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyberpunk/Cyberpunk Red.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cyberpunk Red"
+            }
           }
         ],
         "currentTab": 1
@@ -941,7 +1003,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea86374a763ed4a",
+  "active": "9f7e254c557b50c4",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
