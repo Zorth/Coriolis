@@ -3,7 +3,8 @@ tags:
   - Organization
 type: 
 leader: "[[Character]]"
-parent: 
+parent:
+  - "[[Arcane Veil]]"
 cssclasses:
   - cards
   - cards-1-1

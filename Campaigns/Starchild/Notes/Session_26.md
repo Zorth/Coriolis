@@ -28,6 +28,7 @@ WHERE icontains(this.players, file.link )
 SORT file.name
 ```
 # Recap
+![[Arca Energy]]
 ![[Session_25#Summary]]
 # Plans
 - Make way down (Hidden wall to staircase)
