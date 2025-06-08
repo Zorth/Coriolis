@@ -11,51 +11,16 @@
             "id": "4ea86374a763ed4a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Elysian Order",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stubs/Elysian Order.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Elysian Order\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":11},\"to\":{\"line\":10,\"ch\":11}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Starchild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Starchild\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Session_25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_25.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_25\"}",
-                  "eState": "{\"scroll\":27.321387283236994}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Starchild/Notes/Session_26.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Session_26"
-            }
-          },
-          {
-            "id": "d95de94a3ec419f9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session_24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_24.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_24\"}",
                   "eState": "{}"
                 }
               ]
@@ -69,6 +34,55 @@
               },
               "icon": "lucide-file",
               "title": "Session_25"
+            }
+          },
+          {
+            "id": "74b918427d16e760",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stubs/The mind freed from passion_Breeze.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The mind freed from passion_Breeze"
+            }
+          },
+          {
+            "id": "971c5f645e616d9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Campaigns/Starchild/Starchild-outline.canvas",
+                "viewState": {
+                  "x": 1227.1593712084955,
+                  "y": 26770.508917957126,
+                  "zoom": -2.022813379963257
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Starchild-outline"
             }
           }
         ]
@@ -202,9 +216,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
+                "file": "Campaigns/Starchild/Notes/Session_23.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -225,12 +239,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.534563004001168,
-                  "close": true
+                  "scale": 0.5868350308972224,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session_25"
+              "title": "Graph of Session_23"
             }
           },
           {
@@ -277,6 +291,53 @@
               "pinned": true,
               "icon": "lucide-file-text",
               "title": "CEMK Rule Book"
+            }
+          },
+          {
+            "id": "4ce01bc972533cd3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7da4fdce2b5d06a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session_24"
             }
           },
           {
@@ -345,7 +406,7 @@
             }
           },
           {
-            "id": "ccfaa3e5dccf66ea",
+            "id": "373e74966b980791",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -357,25 +418,54 @@
               ]
             },
             "state": {
-              "type": "all-properties",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
+                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session_24"
+            }
+          },
+          {
+            "id": "5447eb318a467252",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaigns/Starchild/Notes/Session_24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session_24"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 848.5
+    "width": 515.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "canvas:Create new canvas": true,
@@ -386,51 +476,50 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "4ea86374a763ed4a",
   "lastOpenFiles": [
-    "Campaigns/Starchild/Starchild.md",
-    "Campaigns/Starchild/Notes/Session_26.md",
-    "Stubs/Elysian Order.md",
-    "Campaigns/Starchild/Notes/Session_25.md",
     "Stubs/Vitalis Corps.md",
-    "Cyberpunk/Cyberpunk Red.pdf",
-    "Encyclopedia/Organizations/Lost Syndicate/Aegis Vanguard.md",
-    "Encyclopedia/Organizations/Lost Syndicate/Arcane Veil.md",
-    "Images/Spider Walking Drone.png",
-    "Images/Automated Turret Snippet.png",
-    "Campaigns/Starchild/Starchild-outline.canvas",
-    "Cyberpunk/CEMK Rule Book.pdf",
-    "Cyberpunk/Skills/Skills.md",
-    "Cyberpunk/Bestiary/Novice.md",
-    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
-    "Characters/Recurring/Netrunner/BinaryBard.md",
-    "Stubs/The Cloak of the Forgotten.md",
+    "Stubs/Elysian Order.md",
+    "Campaigns/Starchild/Notes/Session_26.md",
+    "Campaigns/Starchild/Notes/Session_24.md",
     "Stubs/The Hat of the Sunlit Dawn.md",
     "Stubs/The Dagger of the Wandering.md",
+    "Stubs/The Cloak of the Forgotten.md",
     "Stubs/Cybermatrix Gang Jazzler.md",
+    "Images/Spider Walking Drone.png",
     "Images/CybermatrixGangJazzler.png",
-    "Images/Pasted image 20250223162011.png",
-    "Campaigns/Starchild/Notes/Session_24.md",
-    "Characters/Minor/Stephen.md",
-    "Stubs/Gunnot.md",
-    "Encyclopedia/Species/Arzen.md",
-    "Atlas/Olympus/Madia.md",
+    "Images/Automated Turret Snippet.png",
     "Encyclopedia/Datashards/Excerpts/The mind freed from passion_Breeze.md",
-    "Stubs/Gertrud Rhetta.md",
-    "Stubs/Dai Ten.md",
-    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
-    "Images/sketch 616B.png",
+    "Stubs/The mind freed from passion_Breeze.md",
+    "Campaigns/Starchild/Notes/Session_25.md",
+    "Campaigns/Starchild/Starchild-outline.canvas",
+    "Campaigns/Starchild/Starchild.md",
     "Stubs/Sharpness V raid.md",
+    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
+    "Cyberpunk/Skills/Skills.md",
+    "Cyberpunk/Cyberpunk Red.pdf",
+    "Cyberpunk/CEMK Rule Book.pdf",
+    "Cyberpunk/Bestiary/Novice.md",
     "Campaigns/Starchild/Characters/8-Bit.md",
+    "Campaigns/Starchild/Characters/BluЯ.md",
+    "Stubs/Gunnot.md",
+    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight.md",
+    "Encyclopedia/Organizations/Corp/The Continental.md",
+    "Images/sketch 616B.png",
+    "Stubs/Dai Ten.md",
+    "Campaigns/Starchild/Characters/Sug4r.md",
+    "Campaigns/Starchild/Characters/D0LL.md",
+    "Campaigns/Starchild/Characters/N0rt0n.md",
+    "Atlas/Olympus/Madia/ARGUS.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",
     "Images/Characters/s1mp.jpg.opdownload",
     "Encyclopedia/Organizations/Families/Levy Family Tree.canvas",
+    "Images/Pasted image 20250223162011.png",
     "Cyberpunk/Other PDF/toaz.info-cyberpunk-red-black-chorme-shopping-book-pr_05a7372b02d69af3bc7c04e98bfeb3e5.pdf",
     "Images/Spells/Push_Person_ref5_power2.png",
     "Images/Spells/PushPerson.png",
@@ -441,6 +530,7 @@
     "Images/Spells/A9R1ve1nfb_1rac9ee_1fb0.tmp",
     "Images/Spells/~ai-f087cfd8-736d-452a-80a3-17c465fe8152_.tmp",
     "Campaigns/Starchild/Starchild-outline_ot.canvas",
+    "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Atlas/Olympus/Madia/ARGUS/Fjord/Clip Security Point.canvas",
     "Templates/Net Arch.canvas",
     "Campaigns/Starchild/Starchild-outline (conflict 2024-03-03-01-26-27).canvas",
