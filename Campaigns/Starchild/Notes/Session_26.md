@@ -41,4 +41,5 @@ SORT file.name
 - Drivers name is [[H34T]]
 - Ambush by [[Kuro]] on [[ARGUS]] orders.
 - Invite from [[Great Lora]] (Wants [[Sharpness V]])
+- > inside [[BM North Continental]].
 # Summary
