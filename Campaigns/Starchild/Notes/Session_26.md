@@ -35,5 +35,5 @@ SORT file.name
 - Greeted by [[Herbert Deralen]] of the [[Elysian Order]]
 # NOTES
 - Went down
-	- Missed the [[Lost Syndicate]] signal  
+	- Missed the [[Lost Syndicate]] signal
 # Summary
