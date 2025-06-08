@@ -39,4 +39,5 @@ SORT file.name
 	- Escaped with [[BinaryBard]] help
 - Taxi as distraction
 - Ambush by [[Kuro]] on [[ARGUS]] orders.
+- Invite from [[Great Lora]] (Wants [[Sharpness V]])
 # Summary
