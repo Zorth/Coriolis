@@ -34,4 +34,6 @@ SORT file.name
 - Make way down (Hidden wall to staircase)
 - Greeted by [[Herbert Deralen]] of the [[Elysian Order]]
 # NOTES
+- Went down
+	- Missed the [[Lost Syndicate]] signal
 # Summary
