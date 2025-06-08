@@ -38,6 +38,7 @@ SORT file.name
 	- Missed the [[Lost Syndicate]] signal
 	- Escaped with [[BinaryBard]] help
 - Taxi as distraction
+- Drivers name is [[H34T]]
 - Ambush by [[Kuro]] on [[ARGUS]] orders.
 - Invite from [[Great Lora]] (Wants [[Sharpness V]])
 # Summary
