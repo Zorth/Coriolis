@@ -557,7 +557,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaigns/Starchild/Notes/Session_25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -1038,7 +1038,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea86374a763ed4a",
+  "active": "9f7e254c557b50c4",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
