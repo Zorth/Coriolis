@@ -16,6 +16,47 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Session_26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":52},\"to\":{\"line\":33,\"ch\":52}},\"scroll\":23.56896551724138}"
+                },
+                {
+                  "title": "Starchild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Starchild.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Starchild\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session_25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Starchild/Notes/Session_25.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session_25\"}",
+                  "eState": "{\"scroll\":27.321387283236994}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stubs/Elysian Order.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Elysian Order"
+            }
+          },
+          {
+            "id": "d95de94a3ec419f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -31,7 +72,7 @@
             }
           },
           {
-            "id": "971c5f645e616d9c",
+            "id": "0b2cca607fbd7748",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,37 +80,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Spider Walking Drone.png"
-              },
-              "icon": "lucide-image",
-              "title": "Spider Walking Drone"
-            }
-          },
-          {
-            "id": "596fb03aac56c397",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Aegis Vanguard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Encyclopedia/Organizations/Lost Syndicate/Aegis Vanguard.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Aegis Vanguard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}}}"
                 }
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Automated Turret Snippet.png"
+                "file": "Stubs/Vitalis Corps.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Automated Turret Snippet"
+              "icon": "lucide-file",
+              "title": "Vitalis Corps"
             }
           }
         ],
@@ -342,59 +370,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "98681185f386df3a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session_25"
-            }
-          },
-          {
-            "id": "46ad810b8904d06c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Session_25"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -419,33 +396,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "fcd084ce64c2c137",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaigns/Starchild/Notes/Session_25.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Session_25"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -467,18 +420,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "596fb03aac56c397",
+  "active": "ccfaa3e5dccf66ea",
   "lastOpenFiles": [
-    "Campaigns/Starchild/Starchild-outline.canvas",
     "Cyberpunk/Cyberpunk Red.pdf",
+    "Stubs/Vitalis Corps.md",
+    "Encyclopedia/Organizations/Lost Syndicate/Aegis Vanguard.md",
+    "Stubs/Elysian Order.md",
+    "Campaigns/Starchild/Notes/Session_26.md",
+    "Campaigns/Starchild/Notes/Session_25.md",
+    "Encyclopedia/Organizations/Lost Syndicate/Arcane Veil.md",
+    "Campaigns/Starchild/Starchild.md",
+    "Images/Spider Walking Drone.png",
+    "Images/Automated Turret Snippet.png",
+    "Campaigns/Starchild/Starchild-outline.canvas",
     "Cyberpunk/CEMK Rule Book.pdf",
     "Cyberpunk/Skills/Skills.md",
     "Cyberpunk/Bestiary/Novice.md",
-    "Images/Automated Turret Snippet.png",
-    "Images/Spider Walking Drone.png",
     "Cyberpunk/Bestiary/Lot 2 Net Arch.canvas",
     "Characters/Recurring/Netrunner/BinaryBard.md",
-    "Campaigns/Starchild/Notes/Session_25.md",
     "Stubs/The Cloak of the Forgotten.md",
     "Stubs/The Hat of the Sunlit Dawn.md",
     "Stubs/The Dagger of the Wandering.md",
@@ -495,14 +454,8 @@
     "Stubs/Dai Ten.md",
     "Atlas/Olympus/Madia/Sylvaray/Black Moonlight/Central/ARGUS R&D lab 616B.md",
     "Images/sketch 616B.png",
-    "Campaigns/Starchild/Starchild.md",
     "Stubs/Sharpness V raid.md",
     "Campaigns/Starchild/Characters/8-Bit.md",
-    "Campaigns/Starchild/Characters/BluЯ.md",
-    "Atlas/Olympus/Madia/Sylvaray/Black Moonlight.md",
-    "Encyclopedia/Organizations/Corp/The Continental.md",
-    "Campaigns/Starchild/Characters/Sug4r.md",
-    "Campaigns/Starchild/Characters/D0LL.md",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-12DaysofCybermas.pdf",
     "Cyberpunk/Other PDF/RTG-CPR-DLC-BlackChromePlusv1.1.pdf",
     "Images/Characters/s1mp.jpg",

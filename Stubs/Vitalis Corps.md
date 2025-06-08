@@ -2,18 +2,24 @@
 tags:
   - Organization
 type: 
-leader: 
-parent:
-  - "[[Arcane Veil]]"
+leader: "[[Character]]"
+parent: 
 cssclasses:
   - cards
   - cards-1-1
 ---
-Wear blue
+Wear green.
 # Geopolitical
-The [[Aegis Vanguard]] is a section of the [[Arcane Veil]] dedicated to [[Arcane|Physical Arcane]]
+[[Arcane Veil]]
 # History
 
+```timeline-labeled
+[line-2, body-2]
+date: 1518
+title: [[Event]]
+content: Start of this organization
+
+```
 # Sub Organizations
 ```dataview
 TABLE type as "Type", parent AS "Parent"
