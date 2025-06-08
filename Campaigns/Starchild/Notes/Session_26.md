@@ -36,4 +36,7 @@ SORT file.name
 # NOTES
 - Went down
 	- Missed the [[Lost Syndicate]] signal
+	- Escaped with [[BinaryBard]] help
+- Taxi as distraction
+- Ambush by [[Kuro]] on [[ARGUS]] orders.
 # Summary
